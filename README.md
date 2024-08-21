@@ -1,4 +1,4 @@
-# Crunchbase API Data Project: Using T5 LLM Model and OpenAI API Fine-Tuning
+# T5 LLM Model and OpenAI Fine-Tuning on Crunchbase Data
 ## Overview
 This project aimed to build a T5 model knowledgeable about startups by training it on Crunchbase basic API data. After training the model on Crunchbase data, we fine-tuned it with custom prompt-completion pairs to improve its language generation capabilities. We then compared this with fine-tuning a GPT-3.5 model using OpenAI's API.
 
