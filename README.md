@@ -36,6 +36,8 @@ In the final stage, we fine-tuned the GPT-3.5 model using OpenAI's API. After co
 | CB Fine-Tuned T5         | 0.7204        | 2.0552     |
 | CB Fine-Tuned OpenAI     | 0.6773        | 1.9685     |
 
+**Why Use Perplexity and Training Loss?**
+Training Loss measures how well the model is fitting the training data, with lower values indicating better fit. Perplexity quantifies the model's ability to predict unseen text, with lower values indicating better performance. Comparing these metrics helps evaluate the models' effectiveness in both learning from the data and generalizing to new, unseen prompts during interaction.
 
 ### Interaction Testing
 **Gradio App**: The Gradio app was used to interact with the fine tuned T5 model, which worked well but required exact matches to trained prompts for correct responses. 
