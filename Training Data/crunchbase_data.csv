@@ -1,0 +1,1001 @@
+identifier,name,short_description,location,created_year
+,Citi,Citigroup is a financial services holding company that provides various financial products and services.,New York,2007
+,UBS,"UBS is a global financial services company that engages in wealth management, investment banking, asset management, and retail banking.",Zürich,2009
+,Amazon,"Amazon is a global tech firm with a focus on e-commerce, cloud computing, digital streaming, and artificial intelligence.",Seattle,2014
+,Ola Electric,Ola Electric focuses on developing and manufacturing electric vehicles (EVs) and related technologies.,Bengaluru,2019
+,Groq,"Groq radically simplifies compute to accelerate workloads in artificial intelligence, machine learning, and high-performance computing.",Mountain View,2017
+,Warburg Pincus,Warburg Pincus is a private equity firm focused on growth investing.,Boadilla Del Monte,2007
+,NVIDIA,"NVIDIA is a computing platform company operating at the intersection of graphics, HPC, and AI.",Santa Clara,2008
+,Intel,"Intel designs, manufactures, and sells integrated digital technology platforms worldwide.",Santa Clara,2008
+,HSBC,HSBC is a banking and financial services organization that offers a comprehensive range of services.,London,2010
+,Societe Generale,"Societe Generale is a financial services organization that offers retail, corporate, and investment banking services.",Paris,2007
+,Fidelity,Fidelity is a privately-owned investment manager focusing on a diverse set of customers.,Boston,2008
+,Gilead Sciences,"Gilead Sciences is a biopharmaceutical company that discovers, develops, manufactures and commercializes therapies for critical diseases.",Foster City,2010
+,Pfizer,"Pfizer is a biopharmaceutical company that provides affordable access to safe, effective medicines and health care services.",New York,2008
+,SoftBank,"SoftBank provides fixed-line, mobile telephony, internet, telecommunications, and digital television products.",Minato,2008
+,Rio Tinto Ioc,Rio Tinto is a mining and metals company.,Melbourne,2013
+,Starbucks,"Starbucks is an international restaurant chain that retails handcrafted coffee, tea, and fresh food items.",Seattle,2008
+,Eli Lilly,"Eli Lilly engages in the discovery, development, manufacture, and sale of pharmaceutical products.",Indianapolis,2009
+,BlackRock,"BlackRock is an investment company that offers its services to institutions, intermediaries, foundations, and individual investors.",New York,2014
+,Sanofi,Sanofi is a healthcare company that provides treatments and the protection of life-saving vaccines.,Paris,2012
+,Protect AI,Protect AI offers a cybersecurity platform that specializes in protecting machine learning models and artificial intelligence systems.,Seattle,2022
+,Octane,Octane is a financial technology company that focuses on providing financing solutions for recreational purchases.,New York,2013
+,AstraZeneca,"AstraZeneca is a pharmaceutical company that discovers, develops, manufactures, and markets prescription medicines.",Cambridge,2008
+,Aisles,Aisles is a retail technology company seeking to transform the retail shopping experience through AI-powered technology.,Portland,2023
+,FirstCry,FirstCry is an online shopping store offering a range of baby care products and toys.,Pune,2011
+,Flo Health,"Flo Health develops a women’s health app that provides access to cycle tracking, health insights, and a private community.",London,2016
+,Standard Chartered Bank,"Standard Chartered Bank provides current accounts, savings accounts, credit cards, and loans.",London,2012
+,Scotiabank,Scotiabank is a banking firm that provides banking and financial services.,Toronto,2014
+,Bristol-Myers Squibb,"Bristol-Myers Squibb engages in the discovery, development, licensing, manufacturing, marketing, distribution and sale of pharmaceuticals.",New York,2008
+,Clio,Clio is a suite of web-based tools that help law firms in practice management and client collaboration.,Vancouver,2009
+,DevRev,DevRev offers a cloud-based solution for both customer support and software development.,Palo Alto,2021
+,Grab,"Grab is an mobile application that provides taxi, payment, lending, and insurance services.",Singapore,2014
+,Bank of America,"Bank of America is a financial institution that offers credit cards, home loans, and auto loan services.",Charlotte,2008
+,Antler,Antler is a global early-stage venture capital firm that builds and invests in the defining technology companies of tomorrow.,Singapore,2018
+,OpenAI,OpenAI is an AI research and deployment company that conducts research and implements machine learning.,San Francisco,2016
+,SAP,"SAP provides enterprise application software to various industries, including consumer, discrete manufacturing, public services.",Walldorf,2008
+,Artesian VC,"Artesian VC is a VC firm offering end-to-end venture capital platform for startups at seed, angel, and growth stages.",Melbourne,2012
+,Blue Owl,Blue Owl is an alternative asset manager that provides investors access to direct lending and GP capital solutions.,New York,2021
+,Chainguard,Chainguard provides low-to-zero CVE container images that provide a secure software foundation for building and running applications.,Kirkland,2021
+,FLYR,FLYR is a technology company that uses AI to help airlines and hospitality businesses.,Santa Monica,2014
+,Cowbell,Cowbell provides adaptive cyber insurance for small and medium-sized enterprises using AI-driven risk assessment.,Pleasanton,2019
+,Archer,Archer is an aerospace company that developed an electric vertical takeoff and landing aircraft tailored for urban air mobility systems.,San Francisco,2020
+,HUB International,"HUB International is an insurance brokerage and risk management company offering property, casualty, life, and health insurance services.",Chicago,2013
+,TEDCO,"TEDCO is a Maryland-based independent organization focused on researchers, entrepreneurs, startups, and early-stage companies.",Columbia,2009
+,Caresyntax,Caresyntax is a vendor neutral data-driven surgery platform that makes surgery smarter by reducing variability and improving efficency.,Boston,2017
+,Pipefy,Pipefy is a no-code process orchestration platform to easily automate workflows and manage business processes.,San Francisco,2014
+,Novartis,Novartis is a healthcare company that provides solutions to address the evolving needs of patients worldwide.,Basel,2008
+,Apple,"Apple is a corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.",Cupertino,2007
+,Techstars,Techstars is an accelerator that provides pre-seed investment and mentoring for various early stage startups.,Boulder,2014
+,PayPal,PayPal is a financial service company that provides online payment solutions to its users worldwide.,San Jose,2007
+,Lockheed Martin,"Lockheed Martin is a global security and aerospace company specialized in advanced technology systems, products and services.",Bethesda,2008
+,Saronic,Saronic designs and manufactures unmanned surface vehicles for maritime security and domain awareness.,Austin,2023
+,Cents,Cents provides an all-in-one management system for laundromats and dry cleaners.,New York,2020
+,UniCredit,UniCredit Group is an Italian global banking and financial services company.,Milan,2014
+,Ola,Ola is a mobility platform and ride-hailing company that integrates city transportation for customers and driver partners.,Kormangala,2011
+,CIBC,CIBC is a financial service company that offers business solutions.,Toronto,2012
+,Recursion Pharmaceuticals,Recursion Pharmaceuticals is a biotech company that develops a drug discovery platform and pipeline with machine learning.,Salt Lake City,2014
+,IndieBio,"IndieBio is the largest biotech startup accelerator, run by SOSV.",San Francisco,2013
+,Kiteworks,Kiteworks provides secure communication and file-sharing solutions for businesses and organizations.,San Mateo,2010
+,Compass,"Compass is a real estate technology company that provides an online platform for buying, renting, and selling real estate assets.",New York,2015
+,Helsing,Helsing is an AI defense company that specializes in the creation of AI-powered military solutions and components.,Berlin,2021
+,Rapid7,Rapid7 is a cybersecurity company that helps organizations detect and respond to security threats effectively.,Boston,2009
+,Inflection Point Ventures,Inflection Point Ventures is an early stage angel investing platform that provides both monetary and non-monetary support to the startups.,Gurgaon,2019
+,Core Scientific,Core Scientific operates blockchain data centers and manufactures digital currency mining servers.,Austin,2018
+,xAI,XAI is an AI company that develops a platform to accelerate human scientific discovery.,Burlingame,2023
+,HDFC Bank,HDFC Bank provides banking and financial services to individuals and businesses in India.,Mumbai,2013
+,CrowdStrike,"CrowdStrike is a cybersecurity technology firm that provides cloud-delivered protection for cloud workloads, identity, and data.",Sunnyvale,2012
+,Tilray,"Tilray is a cannabis-lifestyle and consumer packaged goods company that offers cannabis, hemp-based foods, and craft beverages.",Nanaimo,2015
+,Berkshire Hathaway,Berkshire Hathaway is a conglomerate holding company.,Omaha,2013
+,Polymarket,"Polymarket is a prediction market platform where traders predict future event outcomes, reacting to news in real time.",New York,2018
+,Krafton,Krafton is a game developer for PC and mobile devices that focuses on fantasy games.,Seongnam,2013
+,Gro Intelligence,"The AI-powered decision engine across agriculture, climate, and the economy",New York,2014
+,Startmate,Startmate is the epicentre for startup ambition across Australia and New Zealand,Melbourne,2010
+,Serve Robotics,Serve Robotics develops self-driving robots to deliver food and supplies.,Los Angeles,2021
+,Gradient AI,"Gradient AI provides AI solutions for the insurance industry, leveraging vast industry data for accurate predictions.",Boston,2019
+,Bitcoin,Bitcoin is a cryptocurrency company.,San Francisco,2017
+,Ant Group,Ant Group strives to enable all consumers and small businesses to have equal access to financial and other services through technology.,Hangzhou,2007
+,Duolingo,Duolingo is a language-learning education platform that offers 98 total courses across nearly 40 distinct languages.,Pittsburgh,2012
+,Lucid Motors,Lucid Motors is an automotive company that specializes in electric cars.,Newark,2010
+,Hayden AI,"Hayden AI is an AI platform offering geospatial analytics, transit management, and technology services.",San Francisco,2019
+,MicroStrategy,"MicroStrategy provides enterprise software for business intelligence, mobile intelligence, and network applications.",Vienna,2008
+,ANZ,ANZ is a banking company that provides online banking services to individuals and businesses.,Melbourne,2016
+,Acronis,"Acronis unifies data protection & cybersecurity to deliver integrated, automated cyber protection to solve challenges of the digital world.",Schaffhausen,2008
+,General Motors,"General Motors is an automotive company that designs, produces, markets, and distributes vehicles and vehicle parts.",Detroit,2009
+,Pendo,Pendo is a product experience platform that specializes in software usage analytics and digital adoption solutions.,Raleigh,2014
+,Monarch Tractor,"Monarch Tractor creates fully electric, autonomous tractors designed to enhance productivity, sustainability, and safety in agriculture.",Livermore,2020
+,TELUS,"Second largest Canadian telecommunications company. Provides wireless phone service, high speed Internet, IPTV, home phone, long distance,",Vancouver,2008
+,Nasdaq,"Nasdaq is a global provider of trading, clearing, exchange technology, listing, information, and public company services.",New York,2014
+,Siemens,"Siemens is a technology company that offers cybersecurity, digital consulting, and business services.",Munich,2008
+,T-Mobile,"T-Mobile is a telecommunications company that provides wireless communication services, including mobile phone and internet services.",Bellevue,2008
+,Suno,Suno is a music start-up that enables anyone to make the songs they want.,Cambridge,2023
+,Aven,Aven is a financial services company that offers a unique product known as the Aven HELOC Card.,Burlingame,2020
+,Monzo,"Monzo is a digital bank that provides a user-friendly mobile app, innovative features, and a transparent approach to banking.",London,2015
+,Skild AI,Skild AI is a startup that develops software to power various robots.,Pittsburgh,2024
+,European Bank for Reconstruction and Development,"European Bank for Reconstruction and Development is a financial institution that offers banking solutions, financial instruments and advice.",London,2008
+,Five9,"Five9 is a cloud-based call center software company that specializes in sales, marketing, and customer service.",San Ramon,2008
+,Sybill AI,"Sybill analyzes verbal and non-verbal cues to generate meeting summaries, crafting deal notes and CRM updates using AI models.",Mountain View,2021
+,Humana,"Humana is a health insurance provider for individuals, families, and businesses.",Louisville,2014
+,Stripe,Stripe is an API technology company that provides online payment processing and commerce solutions for Internet businesses.,South San Francisco,2011
+,Exiger,Exiger provides technology-enabled risk and compliance services to help heavily regulated firms.,New York,2017
+,Stellantis,Stellantis provides automakers and mobility services.,Hoofddorp,2021
+,Thumbtack,Thumbtack is a home services website connecting users with local service providers.,San Francisco,2009
+,monday.com,Monday.com is a work operating system where organizations of any size can create processes to manage every aspect of their work.,Tel Aviv,2012
+,Hadrian,Hadrian is a machine parts startup that manufactures precision components for technology companies.,Hawthorne,2021
+,Encord,Encord is an AI data development platform for computer vision and multimodal AI teams.,San Francisco,2020
+,Deliveroo,Deliveroo is an online food delivery service that allows users to order restaurant meals using the web and mobile.,London,2014
+,Box,"Box is an online file sharing and cloud content management service offering unlimited storage, custom branding, and administrative controls.",Redwood City,2007
+,Ericsson,Ericsson is an information and communications technology company that offers network services.,Kista,2010
+,JP Morgan Chase,"JP Morgan Chase is a global financial services provider that offers investment banking, asset management, treasury, and other services.",New York,2010
+,SentinelOne,SentinelOne is an autonomous cybersecurity solution company.,Mountain View,2013
+,SK Hynix,"SK Hynix is the global leader in producing semiconductor, such as DRAM and NAND flash and System IC including CMOS Image Sensors.",Icheon,2012
+,Bitwise,"Bitwise is a crypto index fund manager for individuals, investment managers, and institutions navigating cryptocurrency.",San Francisco,2017
+,Axis Bank,"Axis Bank is a banking institution offering commercial, corporate and retail banking, and treasury operations.",Mumbai,2013
+,Cyble,"Cyble is a leading AI-powered threat intelligence company offering comprehensive coverage of adversaries, exposure, weaknesses, and targets.",Alpharetta,2019
+,Snap,"Snap is a technology company that offers the products Snapchat, Spectacles, and Bitmoji.",Venice,2014
+,Exo,Exo is a medical device startup which develops handheld ultrasound devices and AI for imaging and therapeutic applications.,Redwood City,2018
+,Moderna,Moderna Therapeutics is a biotechnology company that specializes in vaccines and drug development.,Cambridge,2012
+,Huma,Huma offers a health platform used for remote patient monitoring and biological data gathering for preventative healthcare.,London,2011
+,HP,"HP is a manufacturer and seller of personal computers, printers, computer hardwares, and business solutions.",Palo Alto,2007
+,UiPath,UiPath is a software company that develops robotic process automation and artificial intelligence software.,New York,2015
+,Health Catalyst,Health Catalyst is a tech platform that organizes and links health-related data from different systems.,Salt Lake City,2013
+,BitGo,"BitGo is a blockchain and cryptocurrency security company that offers clients with security, custody, and liquidity solutions.",Palo Alto,2014
+,Amount,Amount is a digital technology company that accelerates digital transformation for financial institutions.,Chicago,2014
+,Terran Orbital,"Terran Orbital specializes in space technology, particularly in the fields of satellite manufacturing and space systems.",Boca Raton,2015
+,Fireworks AI,Commoditize AI infrastructure for PyTorch to accelerate product innovation and disruption,Redwood City,2023
+,Workato,Workato is an enterprise automation platform that helps organizations work faster and smarter without compromising governance and security.,Mountain View,2014
+,Morgan Stanley,"Morgan Stanley is a financial services company that offers securities, asset management, and credit services.",New York,2007
+,Thyme Care,Thyme Care is a healthcare company that provides oncology care management services.,Nashville,2021
+,Cart.com,Cart.com is a technology company that provides a unified commerce platform to help companies from discovery to delivery.,Houston,2021
+,QA Wolf,QA Wolf is your modern QA team,Seattle,2021
+,Rewst,Rewst develops a robotic process automation technology for smaller managed services providers.,Tampa,2021
+,Commure,"Commure is healthcare’s first operating system, purpose-built to foster a vibrant health ecosystem by advancing care through collaboration.",San Francisco,2018
+,Rebellions,Rebellions develops AI accelerators by bridging the gap between underlying silicon architectures and deep learning algorithms.,Seongnam,2021
+,Verizon,Verizon Communications is a broadband and telecommunications company that provides information and entertainment services.,New York,2008
+,Cloudflare,Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online.,San Francisco,2009
+,Cosm,Cosm is a media and entertainment company that builds end-to-end experience solutions for the technology and entertainment sectors.,Los Angeles,2021
+,Google,Google is a multinational corporation that specializes in Internet-related services and products.,Mountain View,2014
+,Lakera AI,Lakera AI is a real-time GenAI security company that utilizes AI to protect enterprises from LLM vulnerabilities.,San Francisco,2021
+,Chainlink,"Chainlink is a web3 services platform that connects people, businesses, and data to the blockchain.",Grand Cayman,2019
+,Tesla,"Tesla Motors is an electric vehicle and clean energy company that provides electric cars, solar, and renewable energy solutions.",Austin,2007
+,Element Biosciences,Element Biosciences is a life science company that focuses on developing innovative genetic analysis tools.,San Diego,2019
+,Sahara AI,"Sahara AI is a decentralized AI network that enables freely and securely deploy autonomous AI with high-performance, privacy-first network.",Los Angeles,2024
+,Flywire,Flywire is a payments enablement and software company that simplifies complex payments for its clients and their customers.,Boston,2010
+,Rocket Lab,"Rocket Lab is an aerospace company that specializes in satellite, rocket, and spacecraft design, construction, and launch operations.",Long Beach,2015
+,Payoneer,Payoneer is a financial technology company that enables small and medium-sized enterprises to transact and thrive.,New York,2007
+,BAE Systems,"BAE Systems is a defense, security, and aerospace company that provides its products and services to military and commercial customers.",London,2009
+,BP,"BP is an energy company providing oil, gas, and renewable energy solutions, alongside refining, trading, and shipping services worldwide.",London,2016
+,NextEra Energy,NextEra Energy is a publicly-traded renewable energy company that generates wind and solar power.,Palm Beach,2013
+,Creatio,Creatio offers a no-code platform that automates CRM and enterprise workflows.,Boston,2012
+,Leonardo AI,"Leonardo AI is a generative AI platform for content creation, offering features like the Alchemy Refiner and an image generator app.",Sydney,2023
+,Illumina,Illumina is an innovative technology and revolutionary assays aiming the analyze genetic variation and function.,San Diego,2010
+,Exscientia,Exscientia is a pharmatech company that uses an end-to-end AI platform to design and discover new drugs.,Oxford,2017
+,blinkit,Blinkit is a low-price online supermarket that provides grocery delivery.,Gurgaon,2014
+,Kandji,"Kandji is an Apple device management platform that enables secure and productive use of Mac, iPad, iOS, and tvOS devices.",San Diego,2018
+,Gate.io,"Gate.io is a crypto exchange platform that provides trade, investment, and digital wallet services.",George Town,2019
+,Reliance Jio,Reliance Jio is a telecommunications company that offers mobile internet access to customers and businesses.,Mumbai,2015
+,Intuit,"Intuit offers business and financial management solutions for small businesses, consumers, and self-employed individuals.",Mountain View,2008
+,Alibaba Group,"Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.",Hangzhou,2007
+,Roche,Roche is a pharmaceutical and diagnostics company that focuses on improving people’s lives.,Basel,2013
+,TON Provider,"TON DC is an internet company that operates as a decentralized network data center, supporting the dynamic development of the TON ecosystem.",Zürich,2023
+,Apollo,Apollo is an asset management firm that focuses on the private investment-grade and fixed-income markets.,New York,2011
+,Squire,Squire is a booking and payment platform that connects people with great barbers.,New York,2015
+,1Password,"1Password operates as a password manager for documents, credit card information, and addresses.",Toronto,2018
+,LaunchVic,"LaunchVic supports a recognized, thriving startup culture, and entrepreneurs to develop and grow businesses.",Melbourne,2017
+,National Institutes of Health,National Institutes of Health is a biomedical research facility that focuses on biomedical and health-related research.,Bethesda,2011
+,Neptune Medical,Neptune Medical is a medical device company that develops endoscopic and surgical devices.,Burlingame,2021
+,Decipial Foundation,Decipial Proximity Platform© provides an Edge Network infrastructure and software platform.,Geneva,2023
+,MassVentures,MassVentures is a venture capital firm focused on supporting Massachusetts-based startups to prosper in their businesses.,Boston,2012
+,Ares Management,"Ares Management is an alternative asset manager focusing on credit, private equity, and real estate.",Chicago,2012
+,ClickHouse,ClickHouse is a developer of an online analytical processing (OLAP) database management system.,Portola Valley,2021
+,Amplitude,Amplitude is a product intelligence platform that provides digital product tools that help teams run and grow their businesses.,San Francisco,2013
+,H.I.G. Capital,"H.I.G. Capital is an investment firm that includes private equity, real estate, and health industries.",Miami,2016
+,IntelePeer,IntelePeer is a communications automation platform utilizing AI to enhance interactions.,San Mateo,2008
+,Capital One,"Capital One is a diversified banking company that offers early and later stage venture, and debt financing investments.",Mclean,2009
+,Pluralsight,"Pluralsight is a technology learning platform for software developers, IT admins, and creative professionals.",Draper,2014
+,LegalZoom,LegalZoom is a technology platform giving access to professional legal advice so people can protect what matters most.,Glendale,2009
+,Stonepeak,"Stonepeak Infrastructure Partners invests in infrastructure assets with stable cash flows, inflation linkage, and high barriers to entry.",New York,2013
+,Blend,"Blend is a digital lending platform that facilitates the entire lending process, from application to underwriting to closing.",San Francisco,2014
+,L'Oreal,L’Oréal manufactures and sells cosmetic products for women and men worldwide.,Clichy,2012
+,BITKRAFT Ventures,"BITKRAFT Ventures is an early-stage investment platform for gaming, esports, and interactive media.",San Francisco,2016
+,KuCoin,KuCoin is a global cryptocurrency exchange offering digital assets and providing crypto services to its users.,Mahé,2018
+,Coinbase,"Coinbase is a cryptocurrency exchange and cryptocurrency wallet platform that allows users to buy, sell, and store various cryptocurrencies.",San Francisco,2012
+,Sierra Space,Sierra Space is a commercial space company that specializes in the development of advanced space technologies and solutions.,Louisville,2021
+,CARS24,CARS24 is as AutoTech company that utilizes technology and dealer network for buying and selling pre-owned cars.,Gurgaon,2018
+,Meta,"Meta is a social technology company that enables people to connect, find communities, and grow businesses.",Menlo Park,2007
+,AbbVie,"AbbVie is a pharmaceutical company that discovers, develops, and markets medicines.",North Chicago,2013
+,The EVERY Company,"The EVERY Company makes real animal protein without the use of a single animal, starting with chicken-less egg proteins.",South San Francisco,2015
+,Captions,Captions is an AI-powered creative studio developing a video creation and editing platform for content creation.,New York,2023
+,Ubisoft,"Ubisoft is a producer, publisher, and distributor of interactive entertainment products. ",Montreuil-sous-bois,2009
+,Syfe,Syfe is a digital investment platform that offers a range of investment solutions tailored for both novice and experienced investors.,Singapore,2019
+,Rolls-Royce,"Rolls-Royce provides aerospace engines, power systems, defense propulsion, marine solutions, and comprehensive MRO services.",London,2016
+,Baller Mixed Reality,Pioneering the New Era of Mixed Reality Collectibles with Digital Assets Autographed by Legendary Athletes & Entertainers,Miami Beach,2022
+,Dojo,Dojo is a financial technology company providing card payment solutions for small and medium-sized businesses in the UK and Ireland.,London,2014
+,Startup Wise Guys,"Startup Wise Guys is a venture capital and private equity firm that invests in start ups, B2C and B2B.",Tallinn,2014
+,Silo.AI,"Silo.AI is a private AI lab developing AI-driven services for smart devices, autonomous vehicles, and smart cities.",Helsinki,2017
+,Mask Network,"Mask Network is the Portal to the New, Open Internet.",Singapore,2018
+,Export Development Canada,Export Development Canada supports Canada’s export trade by helping companies react to international business openings.,Ottawa,2013
+,Atos,"Atos provides consulting services and solutions, ranging from supporting strategy development to enterprise solutions and technology.",Bezons,2012
+,Hims & Hers,"Hims is a wellness brand that helps men and women get access to products for skin care, hair loss, and sexual health.",San Francisco,2017
+,Airtel,"Airtel is a global telecommunications company that provides mobile, voice, and data solutions.",New Delhi,2008
+,DraftKings,DraftKings provides online daily and weekly fantasy sports contests for cash prizes in major sports.,Boston,2012
+,Slack,Slack is an enterprise software platform that allows teams and businesses of all sizes to communicate effectively.,San Francisco,2009
+,Xero,"Xero is a suite of online accounting software for small businesses, accountants, and bookkeepers.",Wellington,2008
+,RunLve,Runlve is a provider of secure packages and tools to help enterprises manage the security and compliance of open-source software.,Interlaken,2024
+,Carwow,"Carwow is an online car marketplace that connects customers, automotive brands and car dealers.",London,2010
+,PropertyGuru Group,PropertyGuru Group is a real estate company that provides property development services.,Singapore,2012
+,Outbrain,Outbrain is a technology company that offers a recommendation platform to connect advertisers to open web consumers.,New York,2008
+,NFP,"NFP is an insurance brokerage company that specializes in property, wealth management, and retirement planning services.",New York,2015
+,Australian Renewable Energy Agency,Australian Renewable Energy Agency is a government agency that provides funding to accelerate renewable energy innovation.,Canberra,2013
+,IppoPay,IppoPay is a payment aggregator that helps small businesses collect and distribute payments efficiently.,Chennai,2020
+,Keywords Studios,Keywords studios provides creative and technical services to the video game industry.,Dublin,2016
+,Revolut,"Revolut is a financial technology company that offers banking services, money transfers, foreign exchange, and spending analytics.",London,2014
+,osapiens,Osapiens provides an ESG platform and Software-as-a-Service solutions for companies.,Mannheim,2020
+,GE Healthcare,GE Healthcare provides a wide range of medical technologies and services to healthcare providers and researchers.,Chicago,2008
+,VARTA,"VARTA AG is a German company manufacturing batteries for global automotive, industrial, and consumer markets.",Ellwangen,2016
+,Mytra,Mytra is a robotics company developing software-defined warehouse robotics solutions to automate industrial tasks in logistics.,South San Francisco,2022
+,Thoughtworks,"Thoughtworks is a technological firm that combines strategy, design, and software engineering.",Chicago,2012
+,Moonshot AI,Moonshot AI seeks solutions in transforming energy into intelligence and generating intelligence with users through its product offerings.,Haidian,2023
+,Silicon Box,Silicon Box is a semiconductor integration service provider specializing in full chip design and manufacturing.,Singapore,2023
+,Rheinmetall,Rheinmetall specializes in security and mobility solutions.,Düsseldorf,2016
+,Quanta Services,"Quanta Services provides engineering, procurement, and construction (EPC) services for comprehensive infrastructure needs.",Houston,2014
+,Nasuni,Nasuni is a cloud storage company that provides hybrid cloud-based storage and file-sharing platforms to manage file growth.,Boston,2009
+,Wolters Kluwer,Wolters Kluwer provides its clients with information services and software solutions.,Alphen Aan Den Rijn,2009
+,ABB,ABB provides electrification and automation solutions for various industries.,Zürich,2010
+,Urban Company,"Urban Company provides home cleaning, maintenance, and beauty treatment services conveniently delivered to the doorstep.",Gurgaon,2015
+,Peloton,Peloton is an interactive fitness platform reinventing fitness with live and on-demand boutique studio classes.,New York,2012
+,MongoDB,MongoDB is a next-generation database that helps businesses transform their industries by harnessing the power of data.,New York,2008
+,Leonid Capital Partners,Leonid Capital Partners invests vital capital into critical National Security initiatives.,Huntington Beach,2022
+,DecoverAI,DecoverAI is a generative AI company that delivers AI-driven solutions to enhance the efficiency and effectiveness of legal professionals.,Washington,2024
+,Muon Space,"Muon Space designs, builds, and operates orbit satellite constellations to deliver mission-critical data.",Mountain View,2021
+,Lenovo,"Lenovo Group is a computer technology company that manufactures personal computers, smartphones, televisions, and wearable devices.",Beijing,2009
+,Freshworks,Freshworks is building and delivering online cloud-based software-as-a-service that provides helpdesk support with automation solutions.,,2011
+,Luminar,"Luminar is an autonomous vehicle and lidar technology company for passenger cars, commercial trucking and robo-taxi.",Orlando,2017
+,Eventbrite,Eventbrite develops an online platform that lets users find and create events.,San Francisco,2007
+,Masdar,"Masdar is a renewable energy company that develops and operates solar, wind, energy storage, and geothermal projects.",Abu Dhabi,2013
+,Partior,Partior is a fintech company that leverages blockchain technology to transform the global clearing and settlement infrastructure.,Singapore,2022
+,Infinite Reality,"Infinite Reality helps clients by accelerating audience engagement through its photorealistic, cinematic-quality virtual environments.",Norwalk,2022
+,Novo Nordisk,Novo Nordisk is a healthcare company that produces and distributes insulin and other diabetes drugs to treat chronic diseases.,Bagsværd,2016
+,Levitate,Levitate develops a relationship marketing platform that provides communication tools and an AI dashboard.,Raleigh,2020
+,Oportun,Oportun is a digital banking platform that offers personal loans and financial services to people with limited credit history.,San Carlos,2011
+,Investec,Investec is a specialist bank and asset management company that provides various financial products and services.,Cape Town,2009
+,Vodafone,"Vodafone is a mobile telecommunications company that offers voice, messaging, and cellular data services.",Newbury,2008
+,OneStream Software,OneStream Software is an independent software company that develops a financial planning and analysis software.,Rochester,2016
+,Silver Lake,Silver Lake is a private equity firm that makes large-scale investments in technology companies.,Menlo Park,2009
+,ADP,"ADP provides business outsourcing solutions that facilitate businesses in HR, payroll, and administration processes.",Roseland,2008
+,Lineage Logistics,Lineage Logistics is a warehousing and logistics company that provides temperature-controlled logistics and supply chain solutions.,Novi,2016
+,Quest Diagnostics,"Quest Diagnostics is a clinical laboratory that offers diagnostic testing, services, and information.",Secaucus,2010
+,Snorkel AI,The data-centric platform of enterprise AI,Redwood City,2020
+,Bioniq,Bioniq offers personalized supplements with up to 120 nutrients tailored to individual health needs.,London,2019
+,Endor Labs,Endor Labs is a software supply chain security company that improves application security and manages open-source software dependencies.,Palo Alto,2022
+,Woodside Energy,"Woodside Energy is an energy company that focuses on oil, gas, and new energy solutions.",Perth,2014
+,JD.com,JD.com is an internet company and online consumer electronics retailer in China.,Beijing,2010
+,bitsCrunch,bitsCrunch is an AI enhanced decentralised Blockchain analytics and forensics company that aims to secure the blockchain space.,Munich,2021
+,Uber,"Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",San Francisco,2010
+,Thrive Capital,"Thrive Capital is an investment firm that builds and invests in internet, software, and technology-enabled companies.",New York,2010
+,Valsoft,Valsoft Corporation specializes in the acquisition and growth of vertical-market software enterprises.,Montréal,2016
+,Omni,Omni is a marketplace that provides access to the things needed by nayone through its rentals platform.,San Francisco,2014
+,PCF Insurance,PCF is a full-service insurance brokerage firm which provides complete risk management solutions.,Woodland Hills,2020
+,Carvana,Carvana is an e-commerce platform that buys and sells used cars.,Tempe,2013
+,Arcee.ai,Arcee.ai develops context-adapted LLMs through their domain-adapted language model system (DALM).,Miami,2023
+,Accenture,"Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.",Dublin,2008
+,Spline,Spline offers 3D design and collaboration tools to create and manipulate 3D models and environments.,Middletown,2021
+,ThetaRay,ThetaRay develops a transaction monitoring platform to identify signs of money laundering.,Hod Hasharon,2013
+,ICICI Bank,ICICI Bank is a private sector bank providing banking products and financial services.,Mumbai,2010
+,Trove,"Trove, commanding 75% of U.S. branded resale, empowers brands like Patagonia and Michael Kors to launch, manage, and scale resale programs",Brisbane,2021
+,Unity,Unity provides multiplatform tools and services to developers of interactive content.,San Francisco,2009
+,Mynt,"Mynt manages Gcash and offers payment handling, money transfers, lending opportunities, and business solutions and platforms.",Taguig,2017
+,dezerv.,"Deserv offers an integrated portfolio approach to investment, providing higher returns with lower risk.",Mumbai,2021
+,Addionics,Addionics manufactures 3D Current Collectors to enhance battery performance and production efficiency.,London,2018
+,Partners Group,Partners Group is a private equity firm capitalizing on growth trends and transforming businesses and assets into market leaders.,Baar,2009
+,Moximed,Moximed develops innovative therapies for patients with knee osteoarthritis.,Hayward,2013
+,Archrock,Archrock provides natural gas contract compression services to customers in the oil and gas industries in the United States.,Houston,2023
+,G2,"G2 operates a software marketplace for business organizations to research, buy, and manage their software and services.",Chicago,2013
+,StackShare,StackShare is on a mission to connect every developer in the world with the right tools and the companies using them.,San Francisco,2014
+,Shinobi Therapeutics,Shinobi Therapeutics develops immune-evasive iPS cell therapies for cancer treatment.,South San Francisco,2023
+,PsiQuantum,PsiQuantum focuses on developing a scalable quantum computer using photonic qubits.,Palo Alto,2019
+,Altair,"Altair Engineering, Inc. provides enterprise analytics, engineering, and on-demand computing software technologies. Its technology.",Troy,2010
+,Embraer,Embraer is an aerospace manufacturer that produces commercial and executive aircraft for the commercial and defense sectors.,São Paulo,2014
+,Wayfair,Wayfair is an online retailer that offers a wide range and selection of home products.,Boston,2008
+,Aptean,"Aptean provides enterprise software solutions to the process manufacturing, distribution, and financial services industries.",Indianapolis,2010
+,Hercules Capital,Hercules Capital offers clients an alternative investment vehicle through which they can have access to venture capital investments.,San Mateo,2016
+,Rillet,Rillet develops accounting software to support financial management for high-growth companies.,Palo Alto,2022
+,Andela,Andela's mission is to connect brilliance with opportunity.,New York,2014
+,Greenlight,Greenlight is a debit card and money app that provides an all-in-one money management platform for families and parents.,Atlanta,2015
+,Healx,Healx is a rare disease biotechnology company that uses generative AI for drug discovery.,Cambridge,2016
+,Affirm,Affirm is a financial technology services company that offers installment loans to consumers at the point of sale.,San Francisco,2013
+,Scorpion Therapeutics,Scorpion Therapeutics is a clinical-stage oncology company that specializes in precision medicine for cancer patients.,Boston,2020
+,Walgreens,"Walgreens is a pharmacy, health, and wellness service center that offers trained infusion nurses and pharmacists to treat patients.",Deerfield,2012
+,Type One Energy,Stellarator technology to transform energy markets with fusion power.,Oak Ridge,2023
+,HeyGen,"Next-gen generative AI video platform with customizable AI avatars, right from your browser",Los Angeles,2022
+,Amgen,Amgen is a biotechnology company that develops and manufactures human therapeutics for various illnesses and diseases.,Thousand Oaks,2016
+,SeedBlink,SeedBlink is Europe’s all-in-one equity management and investment platform.,Bucharest,2020
+,Actuate,Actuate enhances existing surveillance systems through AI camera software that improves efficiency without the need for new hardware.,New York,2018
+,ArcelorMittal,ArcelorMittal is a mining and steel manufacturing company that produces iron ore and metallurgical coal.,Luxembourg,2009
+,BHP,BHP is an Anglo-Australian multinational mining and petroleum company headquartered in Melbourne and based in Australia.,Melbourne,2015
+,Dow,"Dow is a materials science company that offers packaging, infrastructure, and consumer care solutions.",Midland,2009
+,Khosla Ventures,"Khosla Ventures provides venture assistance to entrepreneurs in AI, sustainability, enterprise, consumer, health and frontier technologies.",Menlo Park,2014
+,XFA AI,"Invest in Ai servers, spread the server operating costs, and get profit sharing.",Leeds,2024
+,Cato Networks,"Cato Networks is a provider of a SASE platform that offers a secure enterprise network connection to locations, people, and data.",Tel Aviv,2015
+,Dropbox,"Dropbox is a smart workspace company that provides secure file sharing, collaboration, and storage solutions.",San Francisco,2007
+,Squarespace,Squarespace is a website building and hosting platform that helps users create websites without needing advanced technical skills.,New York,2008
+,CloudBees,CloudBees develops a cloud-based platform that provides end-to-end automated software delivery.,San Jose,2010
+,AIRNA,AIRNA is a biotech company that is pioneering RNA editing therapies to improve the health of individuals.,Cambridge,2023
+,Info Edge,Info Edge is an internet company that manages and operates online job portals.,Noida,2008
+,Lukka,Lukka provides enterprise data and software solutions for managing crypto assets and blockchain data.,New York,2014
+,Modern Health,"Modern Health is a mental well-being platform for companies offering therapy, coaching, and self-guided courses.",San Francisco,2018
+,Reliance Industries,"Reliance Industries is a multi-industry company that engages in the energy, petrochemical, retail, and textile businesses.",Mumbai,2010
+,Unit,Unit helps tech companies build financial features into their products.,New York,2019
+,Metadome.ai,Metadome.ai is an immersive 3D & XR technology company that enables cloud-based & photorealistic customer experiences for brands.,Troy,2019
+,Boosted.ai,Boosted.ai is an artificial intelligence company that automates investment management processes for the global financial industry.,Toronto,2019
+,Run:AI,Run:ai is an AI cluster management platform that helps organizations squeeze more from their GPUs and streamline AI/ML development.,Tel Aviv,2019
+,Cyera,Cyera is an AI-powered data security platform that gives enterprises deep context on their data to assure cyber-resilience and compliance.,New York,2022
+,Circle,Circle is a financial technology firm that utilizes stablecoins for payments and e-commerce.,Boston,2014
+,Thermo Fisher Scientific,Thermo Fisher Scientific is a biotechnology and laboratory equipment company that provides a wide range of scientific products and services.,Waltham,2009
+,ChargePoint,ChargePoint develops and manufactures technology for their network of electrical vehicle charging stations.,Campbell,2016
+,Kore.ai,Kore.ai offers AI-powered virtual assistants and applications for enhancing customer and employee experiences across various industries.,Orlando,2017
+,Planet,Planet is an aerospace and data analytics company that builds small satellites and delivers information about the changing planet.,San Francisco,2013
+,Dazz,"Dazz delivers unified security remediation across code, clouds, infrastructure, and applications for security and development teams.",Palo Alto,2021
+,Flat6Labs,Flat6Labs is a seed and early-stage venture capital firm that primarily invests in tech-driven startups.,Gîza,2011
+,KNIME,KNIME provides a platform for end-to-end data science and analytics.,Zürich,2015
+,Jupiter,"Jupiter is a digital banking app that offers smart insights based on your spending, and provides features to make sense of your finances.",Mumbai,2019
+,Venture Catalysts,"Venture Catalysts is an integrated incubator that offers funding, mentorship, and network.",Mumbai,2016
+,Checkly,Build & run synthetics that scale,Berlin,2019
+,BasiGo,"BasiGo is an e-mobility company that offers a Pay-As-You-Drive model, enabling local bus owners to access and operate electric buses.",Nairobi,2021
+,Stagwell,Stagwell is a marketing & advertising company.It is the challenger network built to transform marketing.,New York,2021
+,NIO,NIO is an automotive company that designs and develops electric autonomous vehicles.,Shanghai,2015
+,Roku,Roku develops video streaming devices that provide users access to Internet-streamed video or audio services.,Los Gatos,2008
+,QuantumScape,QuantumScape develops solid-state lithium-metal batteries for electric vehicles and other energy storage applications.,San Jose,2014
+,Sweetgreen,"Sweetgreen is a fast casual restaurant chain that serves simple, seasonal, and healthy salads, and grain bowls.",Washington,2013
+,Headspace,"Headspace specializes in providing mental healthcare, including coaching therapy and psychiatry, as well as meditation mindfulness tools.",Santa Monica,2013
+,GoCardless,"GoCardless helps 75,000+ businesses get paid on time. No late payments, stress, or hidden fees. Just bank-to-bank payments.",London,2012
+,Procore,Procore is a cloud-based construction management software company.,Carpinteria,2014
+,Similarweb,SimilarWeb offers an AI-based market intelligence platform that helps monitor web and mobile app traffic.,New York,2009
+,Aura,Aura is a unified digital threat protection platform that makes security simple for everyone.,Boston,2020
+,M-Files,The M-Files metadata-driven document management platform enables knowledge workers to instantly find the right information in any context.,Austin,2011
+,Grail,Grail develops a pan-cancer screening test designed to detect cancers at an early stage.,Menlo Park,2016
+,Uplimit,Uplimit is an end-to-end AI learning platform that educates businesses and individuals with technical knowledge and practices.,San Francisco,2022
+,AST SpaceMobile,AST SpaceMobile is a space-based broadband cellular network company for unmodified mobile devices.,Midland,2018
+,Bonumbit,Bonumbit integrates blockchain with e-commerce to enhance digital marketplaces.,San Jose,2024
+,Morpheus Data,Morpheus Data is a multi-cloud management platform for hybrid IT and DevOps automation.,Greenwood Village,2014
+,Vantage Data Centers,"Vantage Data Centers designs and develops data center campuses to large cloud providers, AI enterprises, and other tech-driven businesses.",Denver,2012
+,Sila,Sila is a battery materials company that manufactures energy-density lithium-ion batteries for electric vehicles.,Alameda,2013
+,MBX Biosciences,MBX Biosciences is a preclinical-stage biotech company that creates therapies to treat rare endocrine diseases.,Carmel,2020
+,Cardurion Pharmaceuticals,Cardurion is a cardiovascular biotechnology company developing therapeutics for the treatment of heart failure and cardiovascular diseases.,Boston,2019
+,Mechanical Orchard,Mechanical Orchard is a GenAI-native technology company that modernizes critical legacy applications without disrupting what they’re doing.,San Francisco,2022
+,Lime,Lime helps people move around their cities in an affordable and convenient way while eliminating their carbon footprint.,San Francisco,2017
+,DreamBig Semiconductor,"DreamBig Semiconductor provides Chiplet platform with SMARTNIC/DPU solutions for AI, data centers and storage acceleration.",San Jose,2022
+,Iberdrola,"Iberdrola is an energy company that generates electricity through nuclear, fossil-fuel, and hydroelectric power.",Bilbao,2009
+,Chubb,"Chubb is a mortgage firm that offers risk management, property, health, personal, business, health, home, and life insurance.",Zürich,2013
+,Campus,Campus.edu offers online associate degrees and skills-focused programs with live classes from professors nationwide.,Sacramento,2016
+,Johnson Controls,"Johnson Controls offers smart buildings that create safe, healthy, and sustainable environments.",Cork,2009
+,Unilever,"Unilever produces and supplies fast-moving consumer goods in food, home, and personal care product categories worldwide.",London,2008
+,Newme,Newme is a Gen Z-focused fashion startup that offers diverse women's fashion trends.,Bengaluru,2022
+,Avidity Biosciences,Avidity Biosciences is a biotechnology company that develops oligonucleotide-based therapies for its patients.,San Diego,2018
+,OpenText,OpenText is the leader in Enterprise Information Management (EIM).,Waterloo,2008
+,HelloFresh,HelloFresh is a food subscription company that sends pre-portioned ingredients to users’ doorstep each week.,Berlin,2012
+,VAST Data,"VAST Data offers a unified data platform that integrates storage, database, and compute capabilities into a single software platform.",New York,2017
+,Anysphere,Anysphere is a company that builds Artificial Intelligence tools and assistants to help humans.,Buffalo,2022
+,Telefonica,Telefonica is a diversified telecommunications group that provides fixed line and mobile telephone services.,Madrid,2009
+,Merck,Merck is a biopharmaceutical company that offers medicines and vaccines for various diseases.,Rahway,2008
+,Charles Schwab,"Charles Schwab offers a wide range of investment advice, products & services.",West Lake Hills,2008
+,Symbotic,Symbotic is a provider of integrated supply network automation solutions for warehouses and distribution centers.,Wilmington,2012
+,GRO Biosciences,GRO Biosciences is a biotechnology company that develops a protein therapeutics technology to improve treatments across multiple diseases.,Boston,2017
+,Crusoe Energy Systems,Crusoe Energy Systems provides solutions for the energy industry helping them to reduce routine flaring of natural gas.,Denver,2019
+,StartEngine,StartEngine is an equity crowdfunding platform that enables individuals to invest in and own shares of startups and early-stage businesses.,Los Angeles,2012
+,Outpace Bio,Outpace Bio develops innovative cell therapies to enhance cancer treatment efficacy.,Seattle,2021
+,LevelTen Energy,LevelTen Energy is an energy company that provides renewable transaction infrastructure for buying or selling renewable energy and assets.,Seattle,2017
+,Gloo,Gloo provides a technology platform that helps connect the faith ecosystem and drive personal growth through building deeper relationships.,Boulder,2015
+,Infra.Market,Infra.Market is a B2B e-commerce platform that focuses on streamlining the construction materials supply chain through tech innovation.,Thane,2019
+,23andMe,"23andMe is a DNA testing technology company that enables its users to access their ancestry, genealogy, and inherited traits.",Sunnyvale,2007
+,Codeium,"Codeium optimizes your deep learning inference workload, delivering up to a 10x improvement in resource utilization and cost.",San Jose,2022
+,Philips,"Philips is a technology company that operates in various fields, including healthcare, consumer electronics, lighting, and home appliances.",Amsterdam,2013
+,Arch,Arch digitally manages private investment operations for investors and investment advisors.,New York,2019
+,Agilent Technologies,Agilent Technologies addresses the scientific and laboratory management needs of analytical scientists and clinical researchers.,Santa Clara,2009
+,ZeroEyes,ZeroEyes is an AI security company that detects weapons and sends alerts to prevent and stop active shooter threats.,Conshohocken,2020
+,Seeq,Seeq is a software company that accelerates industrial process analytics for process manufacturing data.,Seattle,2013
+,Hudl,Hudl is a software platform that provides video analysis and coaching tools for sports teams.,Lincoln,2013
+,Innoviti,"Innoviti develops payment processing, credit distribution, and payment management software solutions.",Bangalore,2013
+,ASML,ASML is a manufacturer of chip-making equipment.,Veldhoven,2012
+,Quantinuum,"Quantinuum accelerates quantum computing and the development of applications across chemistry, cybersecurity, finance, and optimization.",Broomfield,2021
+,Solaris,Solarisbank is an embedded finance platform that enables other companies to provide their own financial services through APIs.,Berlin,2016
+,Tenable,Tenable helps organizations to understand and reduce their cybersecurity risk across the full range of modern computing assets.,Columbia,2012
+,Neuro-ID,"Neuro-ID provides behavioral analytics identity solutions for banks, fintech, and insurance industries.",Whitefish,2015
+,Barings,Barings is a global financial services firm dedicated to meeting the evolving investment and capital needs.,Charlotte,2017
+,Microsoft,"Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.",Redmond,2014
+,DBS Bank,"DBS Bank is a digital banking firm that offers consumer, SME, and corporate banking services.",Singapore,2009
+,EnsoData,EnsoData is a startup that utilizes artificial intelligence to analyze the human body to diagnose health conditions.,Madison,2016
+,G42,G42 is an artificial intelligence (AI) and cloud computing company that provides solutions in various industries.,Abu Dhabi,2019
+,Knowde,Knowde is the online marketing platform dedicated to chemicals and ingredients.,San Jose,2018
+,Autobahn Therapeutics,Autobahn Therapeutics is a developer of regenerative medicines to restore hope for people affected by CNS disorders.,San Diego,2020
+,Atlan,Atlan is an active metadata platform crafted for data teams that integrates metadata from diverse sources.,Singapore,2019
+,Texas Instruments,"Texas Instruments is a global semiconductor company that manufactures, designs, tests, and sells embedded and analog processing chips.",Dallas,2008
+,Bruker,"Bruker is a manufacturer of analytical and medical instruments covering NMR, ESR, FT-IR, X-RAY spectroscopy.",Billerica,2010
+,Plus,Plus is an AI company whose mission is to build “driving intelligence” to power an autonomous future,Santa Clara,2017
+,Shift4 Payments,Shift4 Payments is a provider of secure payment processing solutions.,Allentown,2017
+,Nextracker,Nextracker creates smart solartracker solutions that improve the performance of solar PV plants.,Fremont,2015
+,Axiad,"Axiad IDS is an identity solutions provider for enterprise, government, and financial organizations to manage cybersecurity risks.",Santa Clara,2019
+,Waabi,Waabi is an artificial intelligence company that develops autonomous driving technology for the transportation sector.,Toronto,2021
+,Schrödinger,Schrödinger is a healthcare-based software company that develops molecular design software for biotech and materials research.,New York,2010
+,Grover,Grover offers technology subscriptions that enable customers to rent tech products on a monthly basis instead of purchasing them.,Berlin,2015
+,Storj,"Decentralized cloud object storage that is affordable, easy to use, private, and secure.",Atlanta,2015
+,Darktrace,"Darktrace is an AI company that uses cybersecurity solutions to identify, prevent, and eliminate insider threats.",Cambridge,2015
+,Bright Night,"BrightNight provides renewable power solutions for utility, commercial, and industrial customers.",Rosemary Beach,2022
+,Canva,Canva is an online design and publishing platform that provides user friendly design tools for non-designers.,Sydney,2013
+,Andreessen Horowitz,Andreessen Horowitz is a stage-agnostic venture capital firm with assets under management across multiple funds.,Menlo Park,2009
+,ZeroAvia,ZeroAvia develops zero-emission hydrogen fuel cell powertrain solutions for aircraft.,Hollister,2019
+,Arcosa,"Arcosa delivers products and solution for infrastructure , construction, engineering, and transportation markets.",Dallas,2018
+,WisdomTree,"WisdomTree is a global financial innovator that offers a diverse selection of exchange-traded products (ETPs), models, and solutions.",New York,2010
+,Nala,Nala is a FinTech company developing a mobile payments application to simplify money transfers and transactions.,Nairobi,2018
+,Taboola,Taboola is an AI-powered content discovery platform that connects people with content on the web that suits their interests.,New York,2007
+,Unacademy,Unacademy is an online learning platform that provides educational content such as video lectures and examinations.,Bangalore,2016
+,Animoca Brands,Animoca Brands is a metaverse and gaming company focused on driving digital property rights through NFTs.,Cyberport,2014
+,Halo Industries,Halo Industries develops new laser-based hardware solutions for the manufacturing of substances.,Palo Alto,2021
+,Kinetic Green,Kinetic Green is an electric vehicle manufacturing company that provides green mobility services.,Pune,2022
+,Anglo American,Anglo American is a global mining company that produces platinum group metals.,Johannesburg,2013
+,OCN,OCN offers online car rentals with all-inclusive subscription services.,Cuajimalpa,2021
+,Exoticca,Exoticca develops an online booking platform to facilitate travel tour package deals.,Barcelona,2015
+,Orange,"Orange is a digital operator that offers mobile and internet services in Europe and Africa, and corporate telecommunication services.",Arcueil,2008
+,MoneyLion,"MoneyLion is a mobile banking platform for borrowing, saving, and investing.",New York,2014
+,LG Electronics,"LG Electronics manufactures a wide range of products including televisions, smartphones, and home appliances.",Seoul,2008
+,Care,"Care is the world's leading platform for finding and managing high-quality family care, including care for children, seniors, pet and home.",Austin,2007
+,Gnani.ai,Conversational AI deep tech company using speech technology and NLP for automation and analytics of conversations over multiple channels,Bangalore,2018
+,Equinix,"Equinix is an internet company that provides data center services for companies, businesses, and organizations.",Redwood City,2008
+,Gcore,"Gcore is a cloud and edge computing company that offers content delivery, hosting, and security solutions for various businesses.",Luxembourg,2017
+,Bardeen,"Bardeen.ai provides AI agents for businesses, automating tasks and removing workflow friction.",San Francisco,2021
+,EIT InnoEnergy,EIT InnoEnergy is an environmental services company that provides catalysing and accelerating energy transitions.,Eindhoven,2014
+,Shot Scope,Shot Scope's patent-pending technology provides unparalleled insights into your golf game.,Edinburgh,2015
+,Sartorius,"Sartorius helps its customers to develop and manufacture biotech medicines reliably, quickly, and economically.",Göttingen,2014
+,Boomi,Boomi provides cloud integration solutions via a SaaS-based platform for providers to stay connected with their consumers.,Berwyn,2007
+,Aypa Power,"Aypa Power builds, owns, and manages large-scale renewable energy projects to enhance grid stability and reduce dependency on fossil fuels.",Toronto,2020
+,Hybe,Hybe is a music-based entertainment lifestyle platform company.,Seoul,2021
+,Teamshares,Teamshares is an employee ownership platform for small business.,Brooklyn,2020
+,OakNorth,"The digital bank for entrepreneurs, by entrepreneurs, that provides bespoke credit and banking services to businesses across the UK and US.",Manchester,2016
+,Earned Wealth,Earned Wealth is a wealth management platform that provides personalized financial planning and investment strategies for doctors.,New York,2023
+,Airbnb,"Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.",San Francisco,2008
+,NatWest Group,NatWest Group is a majority state-owned British banking and insurance holding company.,Edinburgh,2008
+,CoinDCX,CoinDCX operates as a cryptocurrency exchange aggregator.,Mumbai,2018
+,GardaWorld,"Garda World Security Corporation provides security solutions, cash logistics, and risk consulting services.",Montréal,2013
+,Axon,Axon provides electronic control devices to law enforcement and corrections agencies.,Scottsdale,2009
+,NewSpring,NewSpring Capital is a private equity firm that seeks to invest in various industries.,Radnor,2008
+,Cartona,Cartona is a B2B e-commerce marketplace that connects buyers and sellers across the supply chain.,Gîza,2021
+,Eight Sleep,Eight Sleep develops sleep fitness products that feature hydro-powered cooling technology and a health tracker.,New York,2014
+,Marathon Digital Holdings,"MARA is a global pioneer in digital asset computing, developing and implementing innovative technologies.",Fort Lauderdale,2014
+,ThoughtSpot,"ThoughtSpot is a business intelligence platform that helps anyone explore, analyze, and share real-time business analytics data.",Mountain View,2014
+,Country Delight,Country Delight is a dairytech startup that produces and distributes cow and buffalo milk directly to customers' doorsteps.,Gurgaon,2019
+,Know Labs,Know Labs is a non-invasive diagnostic technology platform that uses radio waves to identify and measure molecules in the body.,Seattle,2009
+,Armada,"Armada is an edge computing platform that links individuals and businesses, facilitating real-time data processing and decision-making.",San Francisco,2023
+,Standard Bots,"Standard Bots offers advanced automation solutions, including the RO1 robot, to help businesses streamline their operations.",New York,2018
+,Agrizy,Agrizy develops an agri-processing platform to provide supply chain solutions for agribusinesses.,Bengaluru,2022
+,WP Engine,Global web enablement company providing premium WordPress products and solutions,Austin,2010
+,Harness,Harness is a Continuous Delivery-as-a-Service platform for engineering and DevOps teams to release applications into production.,San Francisco,2017
+,IonQ,IONQ develops general-purpose quantum information processors to solve the world’s complex problems.,College Park,2017
+,Akamai Technologies,"Akamai is a provider of cloud services that help enterprises provide secure, high-performing user experiences on any device.",Cambridge,2007
+,Intramotev,Intramotev creates self-propelled battery-electric railcars that operates autonomously and reduce the reliance on traditional locomotives.,St Louis,2022
+,Mercedes-Benz Group AG,Mercedes-Benz Group AG (formerly Daimler) is an automotive company that produces premium cars and commercial vehicles with a global reach.,Stuttgart,2009
+,Vacasa,"Vacasa is a vacation rental management company that helps homeowners buy, manage, and sell their vacation homes.",Portland,2014
+,Nutanix,"Nutanix specializes in cloud software, offering organizations a single platform for running apps and data across clouds.",San Jose,2011
+,Vitable Health,Vitable Health offers primary care and mental health services through membership.,Philadelphia,2020
+,9Unicorns Accelerator Fund,9Unicorns is a stage and sector agnostic accelerator venture capital firm.,Mumbai,2020
+,TPG,TPG is a private investment firm that manages capital across a series of funds.,San Francisco,2009
+,Proofpoint,"Proofpoint provides cloud-based email security, e-discovery, and compliance solutions for companies to protect sensitive business data.",Sunnyvale,2008
+,MercadoLibre,MercadoLibre hosts online e-commerce and auction platforms that provide users with buying and selling mechanisms for e-transactions.,Buenos Aires,2009
+,Infor,"Infor provides ERP software for healthcare, services, public sector, manufacturing, distribution, and fashion/retail industries.",New York,2009
+,FloQast,FloQast is a financial close management software designed to streamline the month-end close process for accounting teams.,Los Angeles,2013
+,Talkiatry,"Talkiatry provides virtual mental healthcare covered by insurance, connecting patients with licensed psychiatrists.",New York,2021
+,Zscaler,Zscaler is a global cloud-based information security company that enables secure digital transformation for mobile and cloud.,San Jose,2012
+,Autofleet,Autofleet provides an optimization platform for fleets and mobility operators.,Tel Aviv,2018
+,Imperative Care,Imperative Care is singularly dedicated to finding meaningful answers to unsolved problems in stroke.,Campbell,2019
+,DigitalOcean,"DigitalOcean provides a cloud platform to deploy, manage, and scale applications of any size.",New York,2012
+,Somatus,"Somatus is a healthcare company that partners with health plans, health systems, nephrology, and primary care groups.",Mclean,2017
+,Menlo Ventures,"Menlo Ventures provides capital for consumer, enterprise, and life science technologies from seed to growth stages.",San Francisco,2007
+,E.ON,"E.ON Connecting Energies specialises in integrated energy solutions for industrial, commercial and public-sector customers.",Essen,2013
+,Volley,"Volley builds voice-controlled entertainment experiences for Amazon Alexa, Google Assistant, and smartphones.",San Francisco,2017
+,Xapien,"Xapien automates online research, using Artificial Intelligence, Natural Language Processing & with vast cloud compute power: #XapienThem",London,2021
+,Matterport,"Matterport digitizes spaces into accurate, immersive 3D digital twins with its all-in-one platform.",Sunnyvale,2013
+,U.S. Bancorp,"U.S. Bancorp is a financial holding company, offers banking, investment, mortgage, trust, and payment services and products for its clients ",Minneapolis,2010
+,Suzlon Energy,Suzlon Energy is a sustainable company that offers a range of wind turbine products.,Pune,2014
+,Claroty,Claroty is a cybersecurity company that provides solutions to protect infrastructure and industrial networks from cyber threats.,New York,2016
+,IDEX,"IDEX is a publicly-traded company providing development, design, and manufacturing of fluidics systems and specialty engineered products.",Lake Forest,2009
+,Jnana Therapeutics,Jnana Therapeutics develops innovative therapies using a chemoproteomics drug discovery platform.,Boston,2017
+,H2O.ai,H2O.ai is a machine learning platform that builds smart applications.,Mountain View,2015
+,Promise,PromisePay provides a modern payment processing platform built for utilities and government agencies.,Oakland,2018
+,Regard,Regard uses AI to automatically diagnose patients and generate accurate notes for doctors to improve patient care and reduce burnout.,Los Angeles,2017
+,Atlas,"Atlas is a technology platform that helps companies expand across borders, onboard talent, manage compliance, and pay their global workforce",Chicago,2022
+,Universal Music Group,"Universal Music Group is a music-based entertainment company that offers music recording, publishing, and merchandising services worldwide.",New York,2008
+,Commonwealth Bank of Australia,"Commonwealth Bank of Australia offers a wide range of financial and investment services to individuals, businesses, and government entities.",Sydney,2009
+,Infobip,"Infobip specializes in omnichannel engagement powering a range of messaging channels, tools, and solutions for advanced customer engagement.",London,2011
+,Netflix,Netflix is an online streaming platform that enables users to watch TV shows and movies.,Los Gatos,2008
+,Generate Capital,"Generate Capital builds, owns, and operates sustainable infrastructure to deliver affordable and reliable resource solutions.",San Francisco,2016
+,Sunrun,"Sunrun provides residential solar electricity, storage solutions, and clean energy services to homeowners.",San Francisco,2009
+,Cubbit,"Your Cloud. Your Rules. Anywhere. Cubbit is the 1st geo-distributed cloud Enabler. Compose your S3 cloud in minutes, benefit for years.",Bologna,2018
+,Ziff Davis,Ziff Davis is a digital media and internet company that focuses on cybersecurity and connectivity.,New York,2008
+,Clarapath,"Clarapath is a medical robotics company that develops the SectionStar, a platform to mimic the human histotechnician.",New York,2017
+,Aon,"Aon is a global provider of risk management, insurance and reinsurance brokerage, human resources solutions, and outsourcing services.",London,2010
+,team.blue,team.blue is a online enabler that helps local entrepreneurs to grow their business. It provides hosting and cloud solutions.,Gent,2022
+,Zuora,"Zuora provides cloud-based software on a subscription basis that helps companies launch, manage, and transform into a subscription business.",Redwood City,2008
+,Lilium,Lilium is an aircraft company that is developing an electrically powered aircraft.,Weßling,2015
+,EXPERT DOJO,Expert DOJO is an international startup accelerator based in Santa Monica.,Santa Monica,2014
+,Gallagher,Gallagher is an international insurance brokerage and risk management services firm.,Rolling Meadows,2012
+,Ultrahuman,Ultrahuman is a wearable tech start up that offers products that tracks metabolic health.,Bangalore,2020
+,BorgWarner,BorgWarner is an automotive supplier of mobility solutions for the vehicle market.,Auburn Hills,2013
+,Hourwork,Hourwork develops a recruitment and retention platform that connects employers with hourly workers.,Boston,2020
+,New Mountain Capital,New Mountain Capital manages private equity and public equity capital with aggregate assets.,New York,2011
+,Diageo,"Diageo is a premium drinks business with an outstanding collection of beverage alcohol brands across spirits, beer, and wine.",London,2011
+,Remitly,Remitly is a mobile payments service that enables users to make person-to-person international money transfers.,Seattle,2011
+,AppLovin,AppLovin makes technologies that help businesses of every size connect to their ideal customers.,Palo Alto,2013
+,dYdX,"dYdX is a leading decentralized exchange offering Perpetual, Margin, & Spot trading, as well as borrow / lend pools on Ethereum.",San Francisco,2017
+,Clay,Scale personalized outreach with better data enrichment,New York,2019
+,Celestial AI,Celestial AI develops an optical interconnect technology platform for data center and AI computing solutions.,Santa Clara,2020
+,Ripple,"Ripple is a technology company that provides solutions for cross-border payments, crypto liquidity, and central bank digital currency.",San Francisco,2013
+,Bloomreach,Bloomreach is a developer of a cloud-based software that connects both customer and product data to personalize all customer touch-points.,Mountain View,2010
+,Nearfield Instruments,Nearfield Instruments is a developer of advanced metrology systems for the semiconductor manufacturing industry.,Rotterdam,2018
+,Grafana Labs,"Grafana Labs is an open source software platform built to support monitoring, visualization, and metric analytics.",New York,2015
+,Allbirds,Allbirds is an apparel and fashion company that specializes in manufacturing eco-friendly wool shoes.,San Francisco,2016
+,Heimdall Power,Heimdall Power provides software and sensors designed for monitoring overhead power lines.,Oslo,2018
+,Applied Materials,Applied Materials is a semiconductor and display equipment company that offers materials engineering solutions.,Santa Clara,2013
+,Planck,Planck is an AI platform designed for commercial insurance that offers solutions for submission validation and underwriting recommendations.,New York,2017
+,Function Health,100 Healthy Years • Your new routine of 120+ advanced lab tests explained by the world's top doctors,Los Angeles,2022
+,Hamilton Lane,Hamilton Lane is a private market investment firm that serves institutional and private wealth investors worldwide.,Bala Cynwyd,2013
+,The Zebra,The Zebra is an online insurance comparison platform providing real-time rates and educational resources for various insurance types.,Austin,2013
+,OutSystems,"OutSystems is a low-code platform that enables businesses to develop, deploy, and manage enterprise-grade apps.",Boston,2014
+,Capitalize,Capitalize locates and transfers retirement assets for financial institutions and consumers.,New York,2020
+,Nextdoor,"Nextdoor is a private social networking platform that connects neighbors for them to exchange helpful information, goods, and services.",San Francisco,2012
+,UK Space Agency,UK Space Agency is an executive agency of the UK government responsible for leading the country's space exploration program.,Swindon,2019
+,UnaBiz,UnaBiz provides IoT solutions for asset tracking and smart metering.,Singapore,2017
+,Halda Therapeutics,Halda Therapeutics is a research-stage drug discovery company.,New Haven,2019
+,OYO,OYO is a global travel tech company that connects its patrons and guests.,Gurgaon,2015
+,Quizlet,Quizlet is a learning platform that uses activities and games to help students practice and master what they’re learning.,San Francisco,2010
+,Helix,Helix is a population genomics company that is working to advance genomics research and integrate genomic data into clinical care.,San Mateo,2013
+,Xaira Therapeutics,Xaira Therapeutics is an integrated biotechnology company driving advances in artificial intelligence.,San Francisco,2024
+,Berachain,Berachain is a developer of an Ethereum-compatible blockchain for financial applications.,George Town,2023
+,Onego Bio,Onego Bio is a food-based biotechnology company that produces animal-free egg white protein through precision fermentation.,Helsinki,2022
+,Cresta,Cresta leverages artificial intelligence to help sales and service agents improve the quality of their customer service.,Palo Alto,2018
+,"US Department of Commerce, Economic Development Administation",EDA leads the federal economic development agenda by promoting innovation and competitiveness.,Washington,2015
+,Island,Island is a cybersecurity company that develops an enterprise browser to enhance security and productivity within corporate environments.,Dallas,2020
+,Ambri,Ambri is an energy storage solutions company that develops liquid metal batteries.,Marlborough,2012
+,Chewy,Chewy.com delivers pet happiness by conveniently shipping over 500 brands of pet food and goodies for free.,Plantation,2012
+,Prenetics,Prenetics is a genetic and diagnostic health testing company that helps to identify health risks with the use of DNA sequencing technology.,Hong Kong,2014
+,Trafigura,"Trafigura is a commodity trading company that facilitates the distribution of commodities such as metals, minerals, and energy.",Singapore,2010
+,Neon,Neon is an open-source database company that offers a serverless Postgres platform that allows developers to build applications.,Menlo Park,2022
+,Envestnet,"Envestnet provides integrated technology, intelligent data, and wealth solutions to registered investment advisors, banks, and dealers.",Berwyn,2010
+,Inspirato,Inspirato is a luxury travel and lifestyle subscription company.,Denver,2011
+,Docker,"Docker’s platform helps millions of developers efficiently and collaboratively build, share, and run applications.",Palo Alto,2013
+,Ibotta,Ibotta is a web and mobile application.,Denver,2012
+,CytoReason,CytoReason develops a cell-centered computational model of the human body designed to discover complex patterns in biological data.,Tel Aviv,2018
+,Thrive Global,Thrive Global develops technology that help individuals and companies improve their well-being and performance.,New York,2016
+,DocuSign,"DocuSign helps small- and medium-sized businesses collect information, automate data workflows, and sign on various devices.",San Francisco,2014
+,Carsome,Carsome is a used car e-commerce platform that provides efficient car selling services to individuals and entities.,Petaling Jaya,2015
+,Meituan,Meituan develops and operates a platform providing retail and online group buying services.,Beijing,2014
+,Rad AI,"Rad AI develops software that uses AI to automate radiology report writing, aiming to enhance accuracy and reduce radiologist burnout.",San Francisco,2018
+,StubHub,StubHub is an online ticket marketplace.,San Francisco,2008
+,Calibre Scientific,"Calibre Scientific is a developer, manufacturer, and distributor of consumable products in the life sciences and diagnostics sectors.",Los Angeles,2020
+,LegalFly,LegalFly is a legal technology startup that automates legal services using artificial intelligence.,Ghent,2023
+,Kong,Kong is the leading developer of cloud API technologies. Powering the API world.,San Francisco,2018
+,JetZero,"JetZero is building the world's first commercial blended wing airplane, which will (literally) reshape aviation forever.",Long Beach,2022
+,NASA,"NASA is a research company with expertise in space exploration, scientific discovery and aeronautics research.",Washington,2012
+,Anaconda,"Anaconda's platform provides access to the foundational open-source Python packages used in modern AI, data science and machine learning.",Austin,2013
+,Deepnote,"Deepnote is a collaborative data science notebook for teams that is shareable, Jupyter-compatible, and runs in the cloud.",San Francisco,2018
+,Asda,Asda owns and operates a chain of supermarkets that sell various products.,Humber,2013
+,Kymera Therapeutics,Kymera Therapeutics is a biotechnology company that specializes in the field of targeted protein degradation.,Cambridge,2017
+,Talkspace,"Talkspace is a digital therapy company that offers online therapy, online counseling, psychiatry and medication management, and self-care.",New York,2014
+,Oscar Health,"Oscar is a health insurance company that offers individual and family plans, medicare advantages, and small group products.",New York,2013
+,Walgreens Boots Alliance,"Walgreens Boots Alliance is the first global pharmacy-led, health and wellbeing enterprise in the world.",Deerfield,2015
+,LanzaJet,"LanzaJet is a provider and producer of Sustainable Aviation Fuel (SAF) technology, dedicated to accelerating the transition to clean energy.",Illinois City,2020
+,Zimmer Biomet,"Zimmer Biomet is a medical device manufacturing company that offers orthopedic reconstructive, spinal, and trauma devices.",Warsaw,2013
+,MindMed,MindMed provides psychedelic-inspired medicines and therapies for substance abuse disorders and other mental illnesses.,New York,2019
+,greytHR,greytHR is an integrated cloud-based HR & Payroll software.,Bangalore,2009
+,Bitdeer Technologies Group,Bitdeer is a provider of digital asset mining services for blockchain and high-performance computing.,Singapore,2021
+,Kohlberg Kravis Roberts,"Kohlberg Kravis Roberts is an alternative asset manager focusing on private equity, fixed income, and capital markets.",Hudson,2011
+,Telstra,Telstra is an Australia-based telecommunications and information services company offering a full range of communications services.,Melbourne,2008
+,Affinity,Affinity is a relationship intelligence platform built to expand and evolve the traditional CRM. ,San Francisco,2015
+,d.light,"d.light designs, manufactures, and distributes solar lighting and power products, particularly targeting off-grid communities.",Palo Alto,2009
+,Supreme,"Supreme is a clothing and lifestyle brand that produces apparels for skaters, kids, and artists.",New York,2017
+,IFS,"IFS develops and delivers enterprise software solutions such as ERP, EAM and Service Management.",Linköping,2010
+,Cognition,Cognition is an applied artificial intelligence lab that focuses on reasoning and code.,San Francisco,2024
+,Delivery Hero,Delivery Hero is a network of online food ordering sites with over 100 restaurant partners worldwide.,Berlin,2012
+,Genpact,"Genpact is an information technology firm that offers business management, artificial intelligence, automation, and cloud services.",New York,2011
+,Thoughtful AI,AI-Powered Healthcare Automation,Austin,2020
+,Coast,Coast is a financial services platform that provides fleet fuel cards and expense management solutions for various industries.,New York,2021
+,Napkin AI,"Visual AI for business storytelling. Napkin transforms your text into visuals, perfect for presentations, blogs and more.",Los Altos,2024
+,Polkadot,Polkadot is a heterogeneous multi‑chain technology that allows independent blockchains to exchange information.,Zug,2017
+,Artiva Biotherapeutics,Artiva Biotherapeutics is a biotech company focused on developing and commercializing allogeneic natural killer (NK) cell therapies.,San Diego,2020
+,Lineaje,"Lineaje solves critical Software Supply Chain security problems faced by every organization that builds, uses or sells software.",Saratoga,2023
+,Singtel,"Singtel is a telecommunications company that provides mobile, fixed-line, broadband internet, and television services.",Singapore,2008
+,Greenely,Greenely provides an energy management platform for consumers to manage energy use and contribute to overall power system stability.,Stockholm,2016
+,Leaf Agriculture,Leaf Agriculture is the provider of a unified farm data API and it builds the future of food and agriculture.,Los Angeles,2019
+,BlockDAG,BlockDAG is a layer1 blockchain company.,,2024
+,Rocketlane,Rocketlane is a project management and collaboration platform that enhances the customer onboarding processes for businesses.,Covina,2021
+,Auxilo,A pro education NBFC registered with the Reserve Bank of India poised on serving the financing gaps in the Indian Education Sector.,Mumbai,2018
+,Fireflies.ai,"Fireflies.ai offers an AI Meeting assistant that records, transcribes, and makes searchable meeting notes.",San Francisco,2016
+,OneCause (formerly BidPal),OneCause Fundraising Solutions help nonprofits raise more funds and reach more donors. ,Indianapolis,2011
+,SigTuple,SigTuple builds intelligent solutions for medical diagnosis using state of the art machine learning techniques.,Bangalore,2016
+,Tencent,"Tencent is an internet service portal offering value-added internet, mobile, telecom, and online advertising services.",Shenzhen,2014
+,Hello Alice,"Hello Alice is a financial technology company that provides access to credit, loans, grants, and business planning services.",Houston,2017
+,CTERA Networks,"CTERA enables enterprises to securely sync, share, protect and govern files from any device or office, all from the cloud of their choice.",Petah Tiqva,2009
+,Alvys,Alvys is a software company that develops cloud-based transportation management systems for trucking and logistics companies.,Solana Beach,2021
+,Intelmatix,Intelmatix is a deep-tech AI company with capabilities that address sector challenges by providing tailored solutions and unique products.,Riyadh,2021
+,Idrx,Idrx is a clinical-stage biopharmaceutical company dedicated to transforming cancer treatment.,Plymouth,2022
+,Fastly,Fastly helps digital businesses keep pace with their customer expectations by delivering secure and online experiences.,San Francisco,2011
+,Delhivery,"Delhivery is a supply chain services company that provides transportation, warehousing, freight, and order fulfillment services.",Gurgaon,2014
+,DaVita,DaVita is a provider focused on transforming care delivery to improve quality of life for patients globally.,Denver,2012
+,AMD,"Advanced Micro Devices is a semiconductor company that designs and develops graphics units, processors, and media solutions.",Santa Clara,2008
+,Motorola Solutions,Motorola Solutions creates mission-critical communication solutions and services for public safety and commercial customers.,Chicago,2008
+,Cherry,Cherry is a payment solutions company that offers fast and easy payment plans for medical practices.,San Francisco,2019
+,BioNTech,BioNTech is a biopharmaceutical company that develops cancer therapeutics for infectious diseases.,Mainz,2015
+,Wealthsimple,Wealthsimple offers financial tools to help investors grow and manage their money.,Toronto,2014
+,ZwitterCo,ZwitterCo provides membrane solutions for the treatment of highly-impaired wastewater.,Cambridge,2018
+,Semperis,Semperis is a developer of enterprise identity protection and cyber resilience for cross-cloud and hybrid environments.,Hoboken,2014
+,Sonos,Sonos is a wireless multi-room music system that enables users to play music anywhere in the house and control it using a smartphone.,Santa Barbara,2009
+,EcoVadis,EcoVadis offers a collaborative platform that allows companies to assess the environmental and social performance of their suppliers.,Paris,2008
+,Devo,Devo is a cybersecurity company that provides cloud-native logging and security analytics for organizations.,Cambridge,2013
+,Splunk,"Splunk is a software company that provides operational intelligence software that monitors, reports, and analyzes real-time machine data.",San Francisco,2007
+,Trinity Capital,Trinity Capital is a provider of venture debt and equipment financing to venture-backed companies with institutional equity investors.,Phoenix,2014
+,Thought Machine,Thought Machine is a Fintech company that builds cloud-native technology to revolutionize core banking.,London,2016
+,Bitpanda,Bitpanda is a centralized crypto exchange that provides users access to digital assets.,Vienna,2015
+,CultureAI,CultureAI is a human risk management platform that helps to identify workforce security risks and coach employees.,Manchester,2019
+,Zenity,The first security governance platform for low-code/no-code and AI applications.,Tel Aviv,2021
+,Vanilla,Vanilla offers an estate planning platform that enhances the experience for wealth management firms and their clients.,Salt Lake City,2021
+,Sumsub,One verification platform to secure the whole customer journey,Limassol,2017
+,Creative Destruction Lab (CDL),Creative Destruction Lab (CDL) is a no-fee/no-equity mentoring program for the founders and executives of pre-seed stage ventures.,Toronto,2015
+,FlixBus,"FlixBus is a unique combination of tech-startup, e-commerce platform, and transportation company.",Munich,2013
+,Sepio,"Sepio provides asset risk management services for the financial, insurance, healthcare, and manufacturing industries.",Rockville,2017
+,PitchBook,"PitchBook provides comprehensive M&A, private equity, and venture capital data, as well as daily industry news and analysis.",Seattle,2009
+,Odoo,Odoo offers an integrated suite of business apps built through an open-source development model.,Grand-rosière,2010
+,Aave,Aave is an open source non-custodial protocol on Ethereum for decentralized lending and borrowing.,London,2017
+,Phenom,"Phenom empowers global enterprises to hire faster, develop better & retain longer with its intelligent talent experience platform.",Ambler,2015
+,Mimecast,Mimecast is a SaaS-based email management platform enabling companies to administer business communications and data.,London,2010
+,Ambercycle,Ambercycle is a material science company that converts textile waste into new polyester yarns for apparel brands and manufacturers.,Los Angeles,2019
+,SEMrush,SEMrush is an online visibility management and content marketing SaaS platform.,Boston,2012
+,Zap Energy,Zap Energy is developing compact fusion power that doesn't require magnets or lasers.,Everett,2020
+,Foodpanda,foodpanda is a online food delivery marketplace that enables users to place orders at local restaurants via its website or mobile app.,Berlin,2013
+,Pepper,"Pepper is an eCommerce platform for food distributors, convenience stores, and other marketplaces.",New York,2019
+,Check,Check is a leading payroll infrastructure provider that allows platforms to build successful payroll businesses.,New York,2020
+,Air Liquide,"Air Liquide supplies industrial gases and services to various industries including medical, chemical and electronic manufacturers.",Paris,2013
+,Cummins,"Cummins is a manufacturing industry that designs, manufactures, and sells powertrain components and diesel engines for commercial trucks.",Columbus,2013
+,Loyal,Loyal provides an integrated digital healthcare platform for patient engagement.,Atlanta,2016
+,Rula,"Rula is a leading company in the behavioral healthcare space, with a mission to make mental healthcare work for everyone.",Los Angeles,2019
+,Spotify,Spotify is a commercial music streaming service that provides restricted digital content from a range of record labels and artists.,Stockholm,2008
+,Ginkgo Bioworks,Ginkgo Bioworks is a developer of biological engineering products and custom microbes across multiple markets.,Boston,2012
+,Jumio,Jumio is an AI platform that enables users to establish their identity remotely to protect against fraud and other financial crime.,Sunnyvale,2010
+,Superhuman,Superhuman is a software platform that weaves social insights into a workflow.,San Francisco,2015
+,GalaxEye,GalaxEye enables businesses to make better Decisions & perform operations efficiently via Space Technology.,Chennai,2021
+,insightsoftware,insightsoftware is the most comprehensive provider of solutions for the Office of the CFO.,Raleigh,2018
+,Williams,"Williams is an energy infrastructure company that provides transport, storage, and delivery solutions for clean energy economy.",Tulsa,2012
+,ACV,ACV is a full-service dealer marketplace that runs online automotive auctions.,Buffalo,2015
+,CPP Investments,CPP Investments invests in the contributors and beneficiaries to maximize investment returns.,Toronto,2013
+,Innovaccer,"Innovaccer provides a data activation platform that aggregates, analyzes, and leverages healthcare data to deliver actionable insights.",San Francisco,2013
+,InnerPlant,InnerPlant is harnessing plant physiology to unlock data at scale and boost global agricultural yields and sustainability.,Davis,2018
+,Acko,Acko is a general insurance company that offers insurance products for people working in the transportation and healthcare sectors.,Mumbai,2017
+,Nile,"Nile provides secure connectivity and network independence through a fully automated, wired and wireless LAN deployed entirely as a service",San Jose,2022
+,Tikehau Capital,Tikehau Capital is a global asset management and investment company that specializes in various asset classes.,Paris,2015
+,Female Invest,Female Invest is a edtech platform empowering women through subscription-based learning and community.,Copenhagen,2021
+,Alibaba Cloud,Alibaba Cloud develops cloud computing and data management services.,Hangzhou,2016
+,EWOR,"EWOR is a place where the most extraordinary people find the education, network, and capital to solve the world’s biggest problems.",Berlin,2023
+,ZeroTier,ZeroTier is a secure network overlay that connects devices globally.,Irvine,2014
+,Litera,Litera is a legaltech firm that provides of document lifecycle and transaction management solutions.,Chicago,2011
+,AI21 Labs,AI21 Labs specializes in developing AI systems with an unprecedented capacity to understand and generate natural language.,Tel Aviv,2018
+,Krutrim,Krutrim is an AI application that provides an AI computing infrastructure and AI-powered end applications for the Indian market.,Bangalore,2023
+,Stanford University,"Stanford University is a teaching and research university that focuses on graduate programs in law, medicine, education, and business.",Stanford,2014
+,Hashed,Hashed is the crypto assets fund and community builder.,San Francisco,2018
+,Fi,Fi is a provider of next Generation of Smart Dog Collars.,New York,2017
+,dopay,dopay aims to bank the world's next 1 billion workers by providing the best-in-class cashless payroll payment platform for businesses.,London,2014
+,Photon Health,A modern prescription network,Brooklyn,2023
+,Procter & Gamble Company,Procter & Gamble Company offers a variety of consumer goods products.,Cincinnati,2008
+,Influential,Influential is an A.I. social data and conversion platform that partners with IBM Watson for influencer marketing and technology.,Las Vegas,2016
+,MD Ally,MD Ally develops a telehealth emergency care platform to offer ease of access between public safety practitioners and providers.,New York,2018
+,Myricx Bio,Myricx Bio is a biotechnology company that develops novel NMT inhibitor payloads for ADCs to treat cancer.,London,2020
+,Vinfast,"Vinfast is the automotive manufacturing brand of Vingroup, Vietnam's largest conglomerate, .",Hai Phong,2018
+,Precigen,Precigen is a life sciences company researching and developing bio-therapeutic control systems to minimize toxicity.,Germantown,2009
+,nCino,Ncino is a cloud-based bank operating solution for the financial services industry.,Wilmington,2013
+,Reddit,"Reddit is an online platform that enables users to submit links, create content, and have discussions about the topics of their interest.",San Francisco,2007
+,Mosaic,Mosaic is a residential solar lending platform that enables people to profit from the benefits of clean energy.,Oakland,2012
+,Aclima,Aclima offers an analytics software to map and analyze air pollution and greenhouse gases.,San Francisco,2015
+,Actuate Therapeutics,Actuate Therapeutics provides advanced research for the treatment of high-impact cancers and neurodegenerative diseases.,Fort Worth,2018
+,Datch,Datch provides AI-powered mobile solutions for frontline asset management.,San Francisco,2018
+,Vedanta,Vedanta is a global diversified natural resources company.,Hyderabad,2014
+,Flutter Entertainment,Flutter Entertainment is the world's leading online sports betting and gaming operator.,Dublin,2008
+,Antheia,A synthetic biology company for next generation plant-inspired medicines,Menlo Park,2018
+,OPSWAT,OPSWAT is a Critical Infrastructure Protection CIP Cybersecurity for ICS and OT environments,Tampa,2011
+,SpaceX,SpaceX is an aviation and aerospace company that focuses on reducing the costs associated with space travel by using reusable rockets.,Hawthorne,2009
+,Redwire,"Redwire focuses on space commercialization, digitally engineered spacecraft, on-orbit service, assembly, and manufacturing.",Jacksonville,2020
+,Bank of Montreal,"Bank of Montreal is a financial services provider of retail banking, wealth management, and investment banking products and solutions.",Toronto,2008
+,DataStax,DataStax is the real-time data company for Gen AI applications.,Santa Clara,2010
+,Metropolis,Metropolis is an AI and computer vision start-up built to modernize parking and empower the future of mobility.,New York,2018
+,Insilico Medicine,Insilico Medicine develops an AI platform for drug development to treat cancer and age-related diseases.,Hong Kong,2014
+,HarmonyCares,HarmonyCares is a home-based health care provider for adults and for those with complex medical issues.,Troy,2021
+,FGS Global,FGS Global provides public relations consultancy services to serve the domestic and international clients.,New York,2020
+,General Fusion,General Fusion develops commercial fusion energy using Magnetized Target Fusion technology.,Richmond,2014
+,deepc,The AI Operating System for the Future of Radiology,Munich,2021
+,Crown Castle,"Crown Castle Provides communications infrastructure--connecting people & businesses to essential data, technology & wireless service.",Houston,2012
+,Clare&me,Clare&me is an AI-powered mental health coach startup that offers self-therapy services.,Berlin,2021
+,Innovate UK,"Innovate UK holds funding competitions for businesses and research organizations in sectors, including emerging technologies.",Swindon,2014
+,MagicSchool AI,MagicSchool is the leading AI platform in education and the fastest growing technology platform for schools ever.,Denver,2023
+,Sidecar Health,Sidecar Health is an InsurTech company that offers a health insurance platform and medical coverage to businesses.,Covina,2019
+,Sokin,Global Payments. Fixed Fee. Commission Free. Hassle Free,London,2019
+,AmeriCorps Public Allies,"It is a federal agency, brings people together to tackle the country’s most pressing challenges, through national service and volunteering.",Washington,2021
+,Lhoopa,Lhoopa is an IT-driven real estate investment firm.,Pasig,2019
+,EQT,"EQT is an energy company that produces natural gas, natural gas liquids (NGLs), and crude oil.",Pittsburgh,2016
+,Cleveland Cliffs,"Cleveland-Cliffs produces iron ore pellets and flat-rolled steel, integrating mining, iron making, steelmaking, rolling, and finishing.",Cleveland,2020
+,Sdui,Sdui provides solutions for mobile communication and organization in education.,Koblenz,2019
+,Telegram,"Telegram is a cloud-based mobile and desktop messaging tool that focuses on privacy, security, and speed.",Dubai,2013
+,Anthropic,Anthropic is an AI safety and research company that focuses on increasing the safety of large-scale AI systems.,San Francisco,2021
+,Allianz,"Allianz is an integrated financial services company offering a range of products, services, and solutions in insurance and asset management.",München,2014
+,Octopus Energy,Octopus Energy is a clean energy technology company that provides green energy solutions.,London,2016
+,RingCentral,RingCentral is a provider of enterprise cloud communications and collaboration solutions.,Belmont,2007
+,Linus Health,Linus Health is a digital health company focused on improving mental health and brain health by using screening technology.,Waltham,2020
+,Sift,Sift applies insights from a global network of data to detect fraud and increase positive user experience.,San Francisco,2013
+,Bambee,Bambee is a platform offering an affordable solution to small and medium-sized businesses for hiring HR managers.,Los Angeles,2016
+,Particle Network,Particle Network provides Universal Accounts to unify Web3's fragmented users and liquidity.,Singapore,2023
+,SambaNova Systems,SambaNova Systems builds AI hardware and integrated systems to run AI applications from the data center to the cloud.,Palo Alto,2018
+,Axonius,Axonius is an asset inventory management platform that focuses on cybersecurity solutions and policies.,New York,2017
+,Axle Energy,Axle's software dynamically gives flexibility to the electricity grid and adjusts energy usage to when it is cheapest and greenest.,London,2023
+,Walmart,Walmart is a retail corporation that operates several chains of discount department and warehouse stores.,Bentonville,2009
+,Valneva,Valneva focuses on the development and commercialization of prophylactic vaccines for infectious diseases.,Saint-herblain,2013
+,Haveli Investments,Haveli Investments is a technology-focused private equity firm.,Austin,2022
+,Recurrent Energy,"Recurrent Energy develops, constructs, and operates solar and energy storage projects.",San Francisco,2009
+,Investcorp,"Investcorp is a provider and manager of alternative investment products, serving high-net-worth private and institutional clients.",Manama,2015
+,Sprinklr,Sprinklr provides enterprise software for customer experience management.,New York,2010
+,Abacus Life,Abacus Life is an asset management company that specializes in life settlement and insurance services.,Orlando,2020
+,LivePerson,LivePerson provides real-time intelligent customer engagement solutions that help companies enhance the relationship with their customers.,New York,2008
+,Sequoia Capital,"Sequoia Capital is a VC firm that invests in startups in the energy, financial, enterprise, healthcare, internet, and mobile industries.",Menlo Park,2007
+,Ema,Ema provides AI solutions that enhance productivity across various enterprise roles.,Mountain View,2024
+,Haus,Haus is a marketing science platform that helps brands understand the true business impact of their marketing spend.,Mountain View,2021
+,Royal Bank of Canada,Royal Bank of Canada is a global financial institution that supports various businesses.,Toronto,2020
+,Hulu,"Hulu is an online video service that offers a selection of hit shows, clips, movies, and documentaries through its website. ",Los Angeles,2007
+,CData Software,"CData Software is a software company that offers data integration solutions for real-time access to applications, databases, and Web APIs.",Chapel Hill,2016
+,Qualtrics,"Qualtrics is a single system of record for all experience data, managing customer, product, employee, and brand experiences on one platform.",Provo,2010
+,lemon.markets,"Lemon.markets is a FinTech platform that offers an easy-to-use API for stock trading, order execution, and market data retrieval.",Berlin,2021
+,Digital First AI,Digital First AI provides AI-driven marketing solutions for effective campaign management.,Lewes,2022
+,PlayVS,PlayVS operates an eSports platform to organize high school and collegiate esports.,Los Angeles,2018
+,Branch,Branch helps companies drive seamless mobile experiences through its linking infrastructure powering thousands of today's top brands.,Palo Alto,2014
+,KeyBank,KeyBank is a bank holding company. It is a bank-based financial services company.,Cleveland,2013
+,Biobot Analytics,"Biobot Analytics turns wastewater systems into health observatories, using wastewater data to enhance community health.",Cambridge,2018
+,Pave,"Pave is a real-time compensation platform that helps organizations plan, communicate, and benchmark employees' compensation.",San Francisco,2013
+,Juniper Networks,Juniper Networks is a networking company that markets and develops networking products for enterprise companies.,Sunnyvale,2008
+,Kodiak Robotics,Kodiak Robotics develops autonomous technology for long-haul trucking.,Mountain View,2018
+,Blue Yonder,Blue Yonder is a digital supply chain and omni-channel commerce fulfillment platform.,Scottsdale,2010
+,Manta Network,Manta Network is building a secure and interoperable future with Zero-Knowledge.,Boston,2021
+,KarmaCheck,KarmaCheck is a software company that provides a streamlined API platform that offers background screening services for candidate placement.,San Francisco,2020
+,Veriff,Veriff is an identity verification company that protects businesses and customers from online identity fraud.,Tallinn,2017
+,Viasat,Viasat is a global communications company that offers satellite services.,Carlsbad,2009
+,Writer,Writer is a software firm that develops a full-stack generative AI platform delivering transformative ROI for enterprises.,San Francisco,2020
+,Clarivate Analytics,Clarivate Analytics accelerates the pace of innovation by providing trusted insights and analytics.,Philadelphia,2017
+,Wiz,Wiz is a cybersecurity company that allows companies to find security issues in public cloud infrastructure.,New York,2020
+,Rockset,Rockset is a real-time indexing database that enables companies to build data applications for the cloud.,San Mateo,2018
+,Nielsen,Nielsen provides a comprehensive understanding of what consumers watch and buy.,New York,2007
+,FC Barcelona,"FC Barcelona is a football club on a mission to become the most recognized, adored, and renowned sports institution in the world.",Barcelona,2013
+,Fractal,Fractal is a software company that offers artificial intelligence solutions and products to enable every human's decision in an enterprise.,New York,2012
+,Definely,Definely is a legaltech company that provides a unified solution for lawyers by simplifying access and understanding of legal documents.,London,2021
+,Mayo Clinic,"MayoClinic is a nonprofit medical practice and medical research group focused on integrated health care, education, and research.",Rochester,2012
+,Origin,"Origin is a financial planning platform that manages compensation, benefits, and personal finances for employees.",Boston,2020
+,CodeRabbit,"CodeRabbit is an artificial intelligence company that offers detailed, line-by-line code suggestions and reviews within lines of code.",Walnut Creek,2024
+,Ellucian,"Ellucian delivers the software, services, and insights that help your institution thrive.",Fairfax,2014
+,The Carlyle Group,The Carlyle Group is a private equity firm that caters to early and later-stage companies.,Washington,2008
+,Legion Technologies,Legion Technologies offers an intelligent workforce management platform designed to enhance labor efficiency and employee engagement.,Santa Clara,2017
+,Code Metal,AI-Powered development at the Edge,Boston,2023
+,Aqua Security,Aqua Security is a software company that provides an end-to-end security platform to improve security for cloud-native applications.,Ramat Gan,2016
+,Imprint,"Imprint is a credit card issuer that designs, launches, and manages co-branded credit card programs.",New York,2021
+,Gymdesk,Modern management software for gyms and martial arts schools,Austin,2016
+,Odaseva,Odaseva delivers comprehensive data security and management solutions for enterprises running on Salesforce.,San Francisco,2016
+,Infinitum,Infinitum is setting the bar for the next generation of motors to be better for the planet – and for people.,Round Rock,2019
+,Rohirrim,"Rohirrim uses generative AI for RFP automation and knowledge management, automating repetitive tasks for proposal teams.",Reston,2023
+,Life360,Life360 creates a mobile app for families that helps families feel closer together.,San Francisco,2009
+,Caliza,Caliza is building a global financial infrastructure that removes borders from commerce.,Miami,2022
+,Games24x7,"Real Money Skill Gaming, Daily Fantasy Sports, Casual Gaming",Mumbai,2009
+,Paddle,Paddle is a payments infrastructure provider for SaaS companies.,London,2013
+,Cloudbeds,"Cloudbeds’ hospitality management platform enables hotels to grow revenue, streamline operations, and deliver memorable guest experiences.",San Diego,2016
+,Flower,Developing knowledge and AI to efficiently deploy electricity flexibility,Stockholm,2020
+,ComplyAdvantage,"ComplyAdvantage is an AI-based fraud and anti-money laundering risk detection platform for banks, insurance, and cryptocurrency industries.",London,2015
+,HATCHER+,Hatcher+ offers a data-driven venture firm that uses AI/ML-based technologies to identify early-stage opportunities.,Singapore,2014
+,CatalYm,CatalYm is a biotechnology company developing innovative immunotherapies for cancer patients.,Planegg,2018
+,Collaborative Robotics,Collaborative Robotics is building robots that help in indoor and outdoor tasks alongside humans.,Santa Clara,2022
+,Google for Startups,Google for Startups is Google’s initiative to help startups thrive across every corner of the world.,Mountain View,2014
+,Chope,Chope develops a restaurant reservation application to simplify table booking services.,Singapore,2013
+,Exabeam,Exabeam is a global cybersecurity leader that delivers AI-driven security operations. Learn more at www.exabeam.com.,Foster City,2014
+,Re:Build,Re:Build is an industrial manufacturing company that integrates advanced technologies with traditional manufacturing processes​.,Framingham,2021
+,Fisker,Fisker is a designer and manufacturer of electric vehicles and mobility solutions.,Los Angeles,2020
+,Smartsheet,"Smartsheet is a cloud-based work management platform that empowers collaboration, drives better decision making, and accelerates innovation.",Bellevue,2017
+,Phaidra,Phaidra provides AI and ML solutions to accelerate performance in large-scale industries.,Seattle,2021
+,iRobot,iRobot is a technology company that designs and builds behavior-based AI robots.,Bedford,2008
+,DJI,DJI develops and manufactures innovative drone and camera technology for commercial and recreational use.,Shenzhen,2013
+,Refresco,Refresco is a global independent beverage solutions provider offering a wide range of products and packaging options.,Rotterdam,2015
+,Spear Bio,Spear Bio is a biotech company that focuses on the detection of ultrasensitive protein.,Weston,2021
+,Formlabs,Formlabs develops and manufactures 3D printers and software for the industrial sector.,Somerville,2011
+,Lighthouse Labs RVA,Lighthouse Labs is an early-stage startup accelerator that provides $20k for 0% equity.,Richmond,2016
+,gener8tor,"Generate8tor is a venture capital firm that connects startup entrepreneurs, investors, corporations, job seekers, musicians, and artists.",Madison,2013
+,Finastra,Finastra provides the broadest portfolio of financial services software.,Paddington,2017
+,Western Digital,"Western Digital helps customers capture, preserve, access, and transform an ever-increasing diversity of data.",Milpitas,2015
+,Sinch,Sinch is a cloud communications company that connects businesses and customers through tools that enable personal engagement.,Stockholm,2014
+,10X Banking,10X Banking is a financial technology company.,London,2017
+,EvolutionaryScale,EvolutionaryScale is a developer of biological artificial intelligence models for therapeutic design.,New York,2024
+,Bolt Threads,Bolt is a materials company that invents and scales materials that put the planet on a path towards a better future.,Emeryville,2014
+,LTZ Therapeutics,LTZ develops novel immunotherapies to treat patients that suffer from cancer and other diseases with an unmet clinical need.,San Francisco,2022
+,Ryanair,Ryanair is an airlines company that provides carrier services across 40 countries.,Swords,2013
+,Bpifrance,Bpifrance provides financial solutions for companies that are booting up the listing on the stock exchange and credit equity.,Maisons-alfort,2013
+,Meltwater,"Meltwater is a social listening platform that offers businesses insights into online reputation, industry trends, and customer behavior.",Oslo,2012
+,Seven Starling,Seven Starling is a digital clinic uniquely focused on treating perinatal mental health conditions.,New York,2021
+,Banco Bilbao Vizcaya Argentaria,Banco Bilbao Vizcaya Argentaria  is a global financial services group that offers the a range of services to customers and companies.,Bilbao,2014
+,FRVR,FRVR is a gaming distribution platform that connects players with browser-based games.,London,2015
+,4baseCare,4baseCare provides precision oncology solutions with advanced genomics to help cancer patients.,Bengaluru,2020
+,Coralogix,Coralogix is a SaaS platform that uses machine learning algorithms to facilitate delivery and maintenance processes for software providers.,Ramat Gan,2014
+,Momentum,Momentum transforms sales calls into actionable customer intelligence using AI.,San Francisco,2020
+,FullCircl,FullCircl is a Customer Lifecycle Intelligence (CLI) platform for businesses in financially regulated industries.,London,2010
+,ClassPass,"ClassPass is an application that offers training for fitness, wellness, home workouts, in-studio classes, and digital classes.",New York,2012
+,Code42,"Code42 provides data loss protection, visibility, and recovery solutions.",Minneapolis,2007
+,Motive,"Motive builds technology to improve the safety, productivity and profitability of businesses that power the physical economy.",San Francisco,2013
+,Vertex Pharmaceuticals,Vertex Pharmaceuticals is focused on the discovery and development of small molecule drugs for the treatment of serious diseases.,Boston,2009
+,Meragi,"Meragi is an online platform for discovering, designing, and purchasing products and services for all lifestyle events.",Bengaluru,2023
+,DoubleVerify,DoubleVerify is a software platform that specializes in digital media verification and advertising technology.,New York,2009
+,Guru,"Guru is an Enterprise AI Search, Intranet, and Wiki platform allowing you to find and share information from anywhere to anywhere.",Philadelphia,2014
+,Farmblox,Farmblox utilizes IoT and AI to give farmers the tools to automate their operations.,Waltham,2022
+,Earli,Earli develops genetic constructs for early cancer detection and targeted therapy.,South San Francisco,2020
+,impact.com,"impact.com, the leading global partnership management platform, has been transforming the way enterprises manage all types of partnerships.",Santa Barbara,2018
+,DuckDuckGo,"DuckDuckGo is a browser extension that allows users to block trackers, secure connections, and search anonymously.",Paoli,2008
+,Razer,"Razer develops high-end precision gaming products by combining technology, ergonomics, and expert validation.",Irvine,2009
+,Cognigy,Cognigy is an enterprise conversational AI platform designed to automate customer and employee support processes.,Düsseldorf,2018
+,Betterment,Betterment is an online investment company that offers investing and retirement solutions for their current clients and clients-to-be.,New York,2010
+,Cohere,Cohere provides access to advanced Large Language Models and NLP tools through one easy-to-use API.,Toronto,2021
+,Weights & Biases,Weights & Biases is a developer-first MLOps platform that builds machine learning performance visualization tools.,San Francisco,2018
+,Rimini Street,Rimini Street is an independent provider of enterprise software support services for Oracle and SAP licensees.,Las Vegas,2013
+,Bitfarms,Bitfarms is a blockchain infrastructure company that offers cryptocurrency coins and tokens and runs server farms to validate transactions.,Brossard,2019
+,Morpho Labs,Morpho is a decentralized cryptocurrency lending protocol that provides lending and borrowing services.,Paris,2022
+,Neiman Marcus Group,Neiman Marcus Group is a luxury fashion retail company for men and women.,Dallas,2013
+,NeuSpera Medical,"NeuSpera Medical is a manufacturing firm that designs, manufactures, and sells implantable neuromodulation medical devices.",San Jose,2016
+,Tallgrass Energy,"Tallgrass Energy is a family of companies formed to own, operate, acquire and develop midstream energy assets in North America.",Leawood,2015
+,Ryan Specialty Group,Ryan Specialty Group is an international specialty insurance organization that provides innovative solutions for brokers and agents.,Chicago,2017
+,Qloo,Qloo develops an AI-based cultural platform to predict consumer taste data and recommendations for companies in various sectors.,New York,2012
+,Fetch,Fetch is a consumer-engagement platform that enables users to earn and redeem rewards.,Madison,2014
+,Dun & Bradstreet,Dun & Bradstreet grows the most valuable relationships in business.,Short Hills,2008
+,Zeta,"Zeta empowers issuers to launch API-ready, cloud-native next-gen credit card & payment programs that include processing, core banking, etc.",San Ramon,2016
+,Evolve,Evolve offers rental services for vacation with modern approach to hospitality and property.,Denver,2014
+,Vestas,Vestas is the only global energy company dedicated exclusively to wind energy. Wind is our business and our passion.,Aarhus,2009
+,UgoWork,UgoWork is a manufacturing company that specializes in the production of lithium-ion batteries and energy systems for industrial purposes.,Quebec,2022
+,Billtrust,Billtrust develops a payment cycle management platform designed to automate every step in the invoice-to-cash process.,Lawrenceville,2010
+,SmartRecruiters,SmartRecruiters is an end-to-end recruiting platform that helps companies with talent acquisition.,San Francisco,2011
+,Couchbase,Couchbase is a NoSQL cloud database for business-critical applications.,Santa Clara,2010
+,Observe.AI,Observe.AI is a conversational intelligence platform for contact centers.,Redwood City,2017
+,Rivalz Network,Rivalz Network is an AI-Driven DePIN RollApp.,Dover,2024
+,Foodsmart,Foodsmart provides a digital nutrition platform that uses personalized dietary recommendations to improve health outcomes.,San Francisco,2012
+,Tanium,We protect the world's most security-conscious organizations by providing the first and only Converged Endpoint Management (XEM) platform.,Kirkland,2010
+,Globe Life,Globe Life is an insurance company.,Oklahoma City,2020
+,American Airlines,"American Airlines is an airline company that operates a diverse fleet of aircraft, including narrow-body and wide-body jets.",Fort Worth,2011
+,Talkdesk,Talkdesk offers an enterprise contact center platform that allows companies to make the customer experience a competitive advantage.,San Francisco,2012
+,Roblox,Roblox is an online gaming and entertainment platform that offers a shared digital experience that brings people together through play.,San Mateo,2009
+,BlockTower Capital,"BlockTower is a crypto and blockchain investment firm that uses trading, investing, and portfolio management to this digital asset class.",Miami,2017
+,Restaurant Brands International,Restaurant Brands International Inc. is one of the world's largest quick service restaurant companies,Oakville,2015
+,Flock Safety,Flock Safety develops security solutions using automated license plate recognition (ALPR) cameras.,Atlanta,2017
+,Repligen,Repligen is a biopharmaceutical company developing consumable products for the manufacture of biological drugs.,Waltham,2010
+,MetLife,"MetLife is a provider of insurance, employee benefits, and financial services .",New York,2010
+,aiXplain,"aiXplain is a no-code low-code AI IDE and a marketplace for small and medium enterprises offering Large Language Models, GPT, Multimodal AI",Los Gatos,2021
+,Splight,Splight is a technology business that creates artificial energy for digital solutions in existing power infrastructure.,Washington,2022
+,Surf Air,Surf Air is a membership airline that offers first-class travel on executive aircraft.,Hawthorne,2011
+,Allstate,"Allstate is an insurance company that offers car, home, and life insurance services.",Northbrook,2010
+,MediWound,"MediWound is a biotechnology specialty company focused on developing, manufacturing and commercializing innovative wound care products.",Yavne,2013
+,AiFi,AiFi is an AI retail platform using computer vision for autonomous shopping solutions.,Santa Clara,2017
+,Userled,Userled is an AI-powered startup that automates the distribution of personalizing marketing experiences across all ad and email platforms.,Sevenoaks,2023
+,AEye,"AEye develops adaptive, high performance lidar systems for automotive, trucking, smart infrastructure and logistics applications.",Dublin,2017
+,First Solar,First Solar manufactures thin film photovoltaic modules and provides PV power plants and supporting services.,Tempe,2008
+,Synapse,Synapse is a banking platform that enables companies to provide financial products to their customers.,San Francisco,2015
+,Norm AI,Norm AI provides an AI-powered regulatory compliance platform for the legal and compliance industries.,New York,2024
+,Heeler,Heeler helps security teams scale with developers to eliminate critical risks and reduce future risks for cloud-based applications.,Bethesda,2023
+,TE Connectivity,"TE Connectivity is a company provides engineered electronic components, network solutions, specialty products, undersea telecommunication.",Schaffhausen,2010
+,GrowSari,"Growsari is a tech-enabled B2B platform that connects SME retailers with FMCG suppliers, transforming stores into service hubs.",Pasig,2018
+,CleanSpark,CleanSpark (Nasdaq: CLSK) is America's Bitcoin Miner™.,Henderson,2016
+,Yellow.ai,"Yellow.ai is a conversational AI platform, enabling enterprises to unlock business potential at scale.",San Mateo,2014
+,Epic Games,Epic Games is an interactive entertainment company that develops games and offers its game engine technology to other developers.,Cary,2015
+,Horizon3.ai,Horizon3.ai develops NodeZero which provides an autonomous penetration testing solution that helps customers find and fix attack vectors.,San Francisco,2020
+,Kyndryl,Kyndryl is an information technology and services company.,New City,2021
+,Jamf,Jamf creates IT software that manages Apple devices and helps organizations succeed.,Minneapolis,2013
+,Onfido,Onfido is a provider of automated digital identity verification.,London,2014
+,"Kestra Medical Technologies, Inc.","Kestra Medical Technologies offers wearable medical devices which collects, store, and communicate patients vital performance data.",Kirkland,2021
+,Asceneuron,Asceneuron develops effective therapeutics for orphan tauopathies and Alzheimer’s disease.,Lausanne,2013
+,Clover Health,Clover is a healthcare technology company helping members live their healthiest lives with its Medicare Advantage plans.,Nashville,2015
+,SumUp,SumUp is a financial technology company that enables businesses to accept card payments at the point of sale or on the go.,London,2012
+,FreshBus,FreshBus is an electric bus startup that plans to launch premium intercity electric bus services throughout India.,Hyderabad,2023
+,Anker,Anker designs and sells a range of consumer electronic products.,Santa Clara,2015
+,Magenta Medical,Magenta Medical is engaged in the development of novel device solutions for the treatment of acute and chronic heart failure.,Kadima,2012
+,Pearl,Pearl is an AI-driven company that enhances patient care in dentistry with FDA-cleared AI capable of identifying diseases in dental x-rays.,West Hollywood,2019
+,Apromore,"Apromore is a SaaS solution for process mining, simulation and AI-driven business process optimization",Melbourne,2020
+,Akums Drugs& Pharmaceuticals,Akums Drugs & Pharmaceuticals Limited is the largest CDMO organization of India.,New Delhi,2022
+,ShipBob,ShipBob is a global logistics company that offers an e-commerce fulfillment order platform for direct-to-​consumer brands.,Chicago,2014
+,Founders Factory,Founders Factory builds and funds startups together with exceptional entrepreneurs and the world's leading companies.,London,2012
+,Main Street Capital,Main Street Capital is a principal investment firm that provides long-term debt and private equity capital to lower middle market companies.,Houston,2011
+,SoundCloud,SoundCloud is a social sound platform where anyone can create and share sounds.,Berlin,2008
+,Blume Ventures,Blume Ventures provides pre-series A and early stage funding to tech-focused/tech-enabled ventures.,Mumbai,2012
+,Cicada Innovations,"Cicada Innovations is the home of deep tech in Australia, supporting ambitious ventures solving the world's most pressing problems.",Sydney,2011
+,GoodRx,GoodRx collects drug prices from pharmacies across the U.S. and helps users find the cheapest option for the medication they’re seeking.,Santa Monica,2012
+,Skydo,Skydo is an online payment platform for receiving payments from overseas businesses.,Bengaluru,2022
+,Sense,Sense specializes in tracking devices and home automation solutions for its customers.,Cambridge,2014
+,African Development Bank,African Development Bank provides concessional funding for economic and social development projects and programs.,Belvédère,2013
+,Vodeno,"Vodeno offers financial, banking, credit risk management, foreign exchange, and cloud engineering services.",Warsaw,2021
+,Indigo,"IndiGo is India’s largest passenger airline with a market share of 48.9% as of March, 2020.",Haryana,2016
+,BillionToOne,BillionToOne is a precision diagnostics company that focuses on genetic testing for disease detection.,Menlo Park,2017
+,Purplle,Purplle is an online retailer that offers beauty and personal care products.,Mumbai,2013
+,Booking Holdings,Booking Holdings provides online travel and travel-related reservation and services.,Norwalk,2014
+,Neuronetics,Neuronetics is a medical device company that develops non-invasive therapies for psychiatric and neurological disorders.,Malvern,2009
+,Matera,Matera offers Instant Payment and QR Code technology to enhance payment solutions for financial institutions.,San Francisco,2018
+,Heineken,Heineken is a global brewer that markets premium beers and cider brands.,Amsterdam,2013
+,Revance Therapeutics,Revance is a biotechnology company focusing on aesthetic and therapeutic offerings that enhance patient outcomes and physician experiences.,Newark,2009
+,Zebra Technologies,"Zebra Technologies is a provider of solutions such as barcode printers, scanners, RFID technology, handheld computers, and more.",Lincolnshire,2009
+,Farcaster,"Farcaster is a social network that helps coders, fitness enthusiasts, and meme makers find people based on their interests.",Los Angeles,2023
+,Papa,Papa is a platform that connects college students to senior citizens for companionship and assistance.,Miami,2017
+,Waymo,Waymo improves transportation by developing self-driving technology developed in Google’s labs.,Mountain View,2015
+,Cyberhaven,Cyberhaven is a software company that provides technology to trace and protect the flow of data.,San Jose,2016
+,Nozomi Networks,Nozomi Networks is a cybersecurity company specializing in operational technology and IoT security for critical infrastructure.,San Francisco,2016
+,Westland Insurance,"Westland Insurance is an insurance brokerage company providing auto, home, travel, liability, and hospitality insurance services.",Surrey,2020
+,GameStop,GameStop is a video games and entertainment software retailer operating thousands of retail stores.,Grapevine,2009
+,InVideo,InVideo is re-inventing video creation using AI and making it accessible to the world.,Singapore,2018
+,Dren Bio,"Dren Bio focuses on protein engineering technologies for depletion of cells, protein aggregates, and other disease-causing agents.",Foster City,2020
+,TravelPerk,TravelPerk is a SaaS providing business travel and expense management services for travelers.,Barcelona,2015
+,Sutter Hill Ventures,Sutter Hill Ventures primarily invests in technology-based start-ups.,Palo Alto,2007
+,CenterPoint Energy,"CenterPoint Energy is an energy delivery company with electric transmission and distribution, power generation and natural gas distribution.",Houston,2013
+,Lyten,"Lyten is a supermaterial applications company that develops, sources, and manufactures low-carbon footprint products.",San Jose,2020
+,Veza,Veza is a data security platform that helps users use and share their data safely.,Palo Alto,2020
+,BlueChilli,"BlueChilli helps founders build products, gain pilots, secure investment, and establish their first team.",Sydney,2017
+,R1 RCM,R1 RCM serves as a revenue cycle management partner for hospitals and healthcare systems regardless of the payment models.,Chicago,2010
+,Otter.ai,"Otter.ai improves business team productivity by providing an app to capture, share and recall all of your meeting notes.",Mountain View,2016
+,CloudTrucks,CloudTrucks offers a virtual trucking carrier application designed to reduce operating costs for truck drivers.,San Francisco,2020
+,JetBlue Airways,"JetBlue is a customer service channel for Major United States Airline based in Queens, New York.",Long Island City,2013
+,Pixis,Pixis provides a codeless AI infrastructure platform for brands to monitor and orchestrate their marketing campaigns.,Chicago,2020
+,Capacity,Capacity is an AI-powered helpdesk that automates support for customers and employees.,Saint Louis,2017
+,GeoWealth,GeoWealth is a technology platform offering asset management solutions for advisors.,Chicago,2016
+,itselectric,itselectric is electric vehicle charging purpose-built for drivers who park their cars on city streets.,Brooklyn,2021
+,CashStar,CashStar is a provider of prepaid commerce solutions for the world's top retailers and restaurants.,Portland,2009
+,China Mobile,China Mobile is an investment holdings company that provides mobile telecommunications and related services in Mainland China and Hong Kong.,Hong Kong,2013
+,Tyson Foods,"Tyson Foods is a modern, multi-national, protein-focused food company.",Springdale,2013
+,FullStory,FullStory develops a digital experience intelligence platform designed to capture customer experience data.,Atlanta,2014
+,WalkMe,"WalkMe provides a digital adoption platform to let organizations measure, drive, and act to maximize their digital transformation.",San Francisco,2012
+,Supermicro,"Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.",San Jose,2014
+,General Catalyst,General Catalyst is a venture capital firm that provides early-stage and growth equity investments.,Cambridge,2008
+,NCSOFT,"NCSOFT is an online, video, and mobile game development company that develops massively multiplayer games.",Seoul,2010
+,FEMSA,FEMSA is a company that creates economic and social value operates convenience and foodvenience formats.,Monterrey,2014
+,Blackberry,BlackBerry provides wireless devices and solutions for the worldwide mobile communications market.,Waterloo,2008
+,Baichuan Intelligence,Baichuan Intelligence develops general artificial intelligence services to build large model bases.,Haidian,2023
+,LTK,LTK is a marketing company that offers retail sales and shopping apps.,Dallas,2014
+,Heartbeat Health,Heartbeat Health is a digital health company that utilizes technology to improve cardiovascular disease prevention and management.,New York,2017
+,InventWood,InventWood develops cellulose-based materials for environmental.,College Park,2020
+,Trimble,"Trimble develops positioning technology solutions for surveying, construction, agriculture, public safety and mapping purposes.",Sunnyvale,2009
+,Fabric Cryptography,Fabric is a verifiable processing unit startup that develops a custom cryptography hardware to accelerate cryptography algorithms.,San Francisco,2024
+,Andrena,Andrena is a developer of an internet distribution platform designed to offer high-speed internet at reduced costs.,New York,2018
+,scPharmaceuticals,ScPharmaceuticals is a biopharmaceutical company developing a portfolio of transformative pharmaceutical products for subcutaneous delivery.,Lexington,2014
+,ClearScore,ClearScore is a financial technology company that provides credit scoring services and a marketplace.,London,2015
+,IQVIA,"IQVIA provides analytics, compliance, and management solutions to the life sciences industry.",Danbury,2017
+,Clip,Clip is the leading digital payments and commerce enablement platform in Mexico.,Mexico City,2013
+,Avalara,Avalara is a cloud-based platform that provides tax compliance software and automated solutions.,Seattle,2014
+,Lightspeed Commerce,Lightspeed Commerce develops a unified point of sale and payments platform for retail and hospitality businesses.,Montréal,2012
+,Druva,"Druva delivers a SaaS-based platform to protect and manage enterprise data across endpoint, data center and cloud workloads.",Sunnyvale,2010
+,Cencora,Cencora is a global healthcare company that advances the development and delivery of pharmaceuticals and healthcare products.,Conshohocken,2013
+,Caldera,Caldera offers a no-code Web3 infrastructure platform to help developers spin up layer-2 blockchains.,San Francisco,2023
+,Astra,Astra is a rocket launch startup that provides satellite delivery and launch services.,Alameda,2020
+,HMD,HMD designs and manufactures mobile phones.,Helsinki,2016
+,Magna International,"Magna International is a mobility tech company and auto supplier that engages in body exteriors, structures, power, vision, and seating.",Aurora,2013
+,Bloom Energy,Bloom Energy offers on-site power generation systems that can use a wide variety of inputs to generate electricity.,Sunnyvale,2009
+,BNP Paribas,"BNP Paribas is a financial service company that offers commercial, banking, and investment services.",Paris,2019
+,Pine Labs,Pine Labs is a merchant commerce platform that provides financing and last-mile retail transaction technology to merchants.,Noida,2010
+,DHL,DHL provides international express mail services.,Bonn,2009
+,Rhombus Systems,Rhombus offers a cloud-based security camera system with analytics and smart search for businesses.,Sacramento,2017
+,ALOHA,"Aloha is a USDA organic, clean, plant-based, sustainable food & beverage B-corporation",Darien,2020
+,X-Bow Launch Systems,X-Bow Systems is a space technology company that produces solid rocket motors and hypersonic technologies for defense industries.,Albuquerque,2020
+,ClearBank,ClearBank is a clearing and agency banking platform allowing banks and other customers real-time clearance on payment transactions.,Bristol,2017
+,Neo Asset Management,"Neo Asset Management offers portfolio management, investment advisory services, and asset allocation strategies to their clients.",Mumbai,2022
+,RealPage,RealPage is a provider of cloud-based software for managing multi-family real estate.,Richardson,2009
+,Elevation Capital,"Elevation Capital is an early-stage venture capital firm that focuses on consumers, enterprises, logistics, and B2B.",Gurgaon,2021
+,Generac Power Systems,Generac Power Systems is a manufacturer of automatic transfer switches and accessories for backup power applications.,Waukesha,2012
+,Courier Health,Courier Health is a software company that develops patient engagement platform designed to deliver personalized experiences from end to end.,New York,2021
+,Pax8,Pax8 is a cloud commerce marketplace company that specializes in cloud-based solutions.,Greenwood Village,2014
+,Mintos,Mintos is an investment platform for the financial services sector.,Riga,2015
+,Midi Health,"Midi Health is a virtual care clinic for women that treats depression, gynecological cancer, and period problems.",Menlo Park,2022
+,Pienso,"Pienso is a B2B AI platform that utilizes text data for insight generation, document intelligence, and content moderation.",Arlington,2017
+,9mobile,9mobile is a Nigerian telecommunications services provider.,Ikoyi,2018
+,Melio,Melio is a fintech company that gives small businesses a way to digitally manage their business-to-business payments and receivables.,New York,2018
+,Elemental Excelerator,Elemental is a non-profit investor focused on scaling climate solutions and social impact for all communities.,Honolulu,2013
+,Virtuous Software,Virtuous Software provides nonprofit CRM and donor management tools to enhance fundraising efforts.,Phoenix,2020
+,Northspyre,Northspyre provides a project delivery solution for real estate teams.,Brooklyn,2020
+,Ring,Ring is an outdoor home security that provides homeowners a line of preventative security doorbells and cameras.,Santa Monica,2014
+,Bitso,Bitso is a cryptocurrency exchange platform that allows users to buy and sell bitcoin and other cryptocurrencies.,Mexico City,2014
+,Strangeworks,Strangeworks makes the power of quantum computing accessible to everyone all in one place. Learn more at http://quantumcomputing.com,Austin,2018
+,Sonar,Sonar provides open-source and commercial code analyzers to help developers manage code quality.,Geneva,2016
+,Contentful,Contentful offers a headless content management system that helps organizations deliver content across channels.,Berlin,2013
+,Swiggy,Swiggy is a food delivery platform that brings food from neighborhood restaurants directly to customers' doors.,Bengaluru,2015
+,Paysafe,Paysafe is a global payments provider offering a range of payments solutions for businesses and consumers.,London,2016
+,Kargo Technologies,"Kargo Technologies is a full-stack logistics platform, connecting shippers with truckers.",Jakarta,2018
+,Siyata Mobile,Siyata Mobile is a global developer and provider of cellular communications systems for enterprise customers.,Montréal,2017
+,Amperity,Amperity is an Intelligent Customer Data Platform that empowers global consumer brands by unlocking all their customer data.,Seattle,2016
+,Q Bio,On a mission to build the first Clinical Digital Twin Platform and make it accessible to everyone,San Carlos,2017
+,Reliance Retail,"Reliance Retail operates a chain of neighborhood stores, supermarkets, and specialty stores.",Mumbai,2013
+,Ameriprise Financial,"Ameriprise Financial is a financial services company that provides financial planning, products, and services.",Minneapolis,2011
+,Persona,Persona is an identity platform that helps businesses verify customer identities.,San Francisco,2019
+,Data Ownership Protocol,Data Ownership Protocol helps users restore control over their own data in the Web3 economy.,,2024
+,Martello Re,Martello Re is a reinsurer that offers reinsurance to life insurers and support in asset-intensive life insurance and annuity businesses.,Hamilton,2023
+,ixigo,"ixigo is an online travel portal that allows Indian travelers to organize, book, and track their trips.",Gurgaon,2014
+,ResMed,"A global leader in digital health and connected medical devices, plus software solutions that support out-of-hospital care providers.",San Diego,2011
+,ThredUp,ThredUp is a fashion resale marketplace that enables individuals to buy and sell clothing for women and children.,Oakland,2009
+,Glovo,"Glovo is a courier service that purchases, picks up, and delivers products ordered through its mobile application.",Barcelona,2015
+,Zevra Therapeutics,"Zevra Therapeutics is a biopharmaceutical company focused on discovering and developing therapies for pain, ADHD, and other CNS diseases.",Orlando,2013
+,Scopio Labs,Scopio Labs provides digital cell morphology imaging and AI solutions for hematology microscopy and diagnostics.,Tel Aviv,2016
+,GrowUp Farms,"We’re turning food production on its head to make way better food, that doesn’t cost the earth.",Bristol,2015
+,Alphabet,"Alphabet is a holding company that provides projects with resources, freedom, and focus to make their ideas happen.",Mountain View,2015
+,Layer2 Financial,"Layer2 Financial enables fintech and banks to launch compliant stablecoin, cryptocurrency, and other digital asset products.",Toronto,2023
+,BigCommerce,BigCommerce is a SaaS provider for merchants running online businesses.,Austin,2011
+,Overjet,Overjet is an AI-powered dental technology company that provides algorithms to analyze dental images and deliver diagnoses.,Cambridge,2020
